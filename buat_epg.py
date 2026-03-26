@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import xml.sax.saxutils as saxutils
 
 # --- KONFIGURASI ---
-API_KEY = "1"  # Gunakan '1' untuk test key TheSportsDB
+API_KEY = "123"  # Gunakan '1' untuk test key TheSportsDB
 # Mengambil tanggal hari ini format YYYY-MM-DD
 TANGGAL_HARI_INI = datetime.now().strftime("%Y-%m-%d")
 URL = f"https://www.thesportsdb.com/api/v1/json/{API_KEY}/eventsday.php?d={TANGGAL_HARI_INI}"
