@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="MySportsEPG">
+  <channel id="channelmlb">
+    <display-name>Channel MLB</display-name>
+  </channel>
+  <channel id="channelaustralianafl">
+    <display-name>Channel Australian AFL</display-name>
+  </channel>
+  <programme start="20260326083000 +0000" stop="20260326103000 +0000" channel="channelaustralianafl">
+    <title lang="id">Geelong Football Club vs Adelaide Football Club</title>
+    <category>Australian Football</category>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326230000 +0000" channel="channelmlb">
+    <title lang="id">Baltimore Orioles vs Minnesota Twins</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326230000 +0000" channel="channelmlb">
+    <title lang="id">Atlanta Braves vs Kansas City Royals</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326230000 +0000" channel="channelmlb">
+    <title lang="id">Toronto Blue Jays vs Athletics</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260326210000 +0000" stop="20260326230000 +0000" channel="channelmlb">
+    <title lang="id">Houston Astros vs Los Angeles Angels</title>
+    <category>Baseball</category>
+  </programme>
+</tv>
