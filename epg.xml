@@ -1,31 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="madaefgolfsopenround200:00utcspotv1thailandskysportsarena">
-    <display-name>Madaef Golfs Open Round 200:00 UTCSPO TV 1 ThailandSky Sports Arena</display-name>
+  <channel id="cincinnatiredsvswashingtonnat22:40utcmlb.tv">
+    <display-name>Cincinnati Reds vs Washington Nat22:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="millwallvshullcity19:00utcbeinsportsenglish2qatarskysportsfootballsupersportvariety3beinsports2qatarbeinsportsmax6novasport5czvsport1novsport1suomibeinsports3australiacosmotesport3grdiemasport3bgexxentrsport2ilespnsouthafricaastroarenabolacbssportsnetworkusaparamount+usarenasport4hrdazncanadaviaplaydkviaplayisviaplaynlviaplaynoviaplayse">
-    <display-name>Millwall vs Hull City19:00 UTCBeIN Sports English 2 QatarSky Sports FootballSuperSport Variety 3BeIN Sports 2 QatarBeIn Sports Max 6Nova Sport 5 CZV Sport 1 NOV Sport 1 SuomiBeIn Sports 3 AustraliaCosmote Sport 3 GRDiema Sport 3 BGExxen TRSport 2 ILESPN South AfricaAstro Arena BolaCBS Sports Network USAParamount+ USArena Sport 4 HRDAZN CanadaViaplay DKViaplay ISViaplay NLViaplay NOViaplay SE</display-name>
+  <channel id="barriecoltsvskitchenerrangers23:00utctsn4">
+    <display-name>Barrie Colts vs Kitchener Rangers23:00 UTCTSN 4</display-name>
   </channel>
-  <channel id="kookoovstappara15:30utccmoreaction">
-    <display-name>KooKoo vs Tappara15:30 UTCC More Action</display-name>
+  <channel id="milwaukeebrewersvssandiegopa23:40utcmlb.tv">
+    <display-name>Milwaukee Brewers vs San Diego Pa23:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="napolivsbologna18:45utcsupersportfootballziggosport3bbciplayercosmotesport1grssport2trdazn2germanyziggosport14cmorelive5digisport3romaniaespncolombiafoxdeportesmaxsport3bgsport1czechiaarenasport2premiumrspolsatsport2sport3iltivibusportruepremierfootballhd3astrofootballartsport2cmoresport1fiparamount+usprimasport2sporttv5bbcalbaarenasport3hrarenasport3premiumrsdaznaustriadaznbelgiumdazncanadadazngermanydaznitalydaznspaindaznswitzerlandssport+tr">
-    <display-name>Napoli vs Bologna18:45 UTCSuperSport FootballZiggo Sport 3BBC iPlayerCosmote Sport 1 GRS Sport 2 TRDAZN 2 GermanyZiggo Sport 14C More Live 5Digi Sport 3 RomaniaESPN ColombiaFox DeportesMAX Sport 3 BGSport 1 CzechiaArena Sport 2 Premium RSPolsat Sport 2Sport 3 ILTivibu SporTrue Premier Football HD 3Astro FootballArt Sport 2C More Sport 1 FIParamount+ USPrima Sport 2Sport TV 5BBC AlbaArena Sport 3 HRArena Sport 3 Premium RSDAZN AustriaDAZN BelgiumDAZN CanadaDAZN GermanyDAZN ItalyDAZN SpainDAZN SwitzerlandS Sport+ TR</display-name>
+  <channel id="spartapraguevsviktoriaplzeň18:00utcpolsatsport3">
+    <display-name>Sparta Prague vs Viktoria Plzeň18:00 UTCPolsat Sport 3</display-name>
   </channel>
-  <channel id="clevelandguardiansvslosangele22:10utcmlb.tvviaplaydkviaplayisviaplaynoviaplayse">
-    <display-name>Cleveland Guardians vs Los Angele22:10 UTCMLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
+  <channel id="tsgalaxyvsmamelodisundowns17:30utcsupersportpslsupersportvariety4">
+    <display-name>TS Galaxy vs Mamelodi Sundowns17:30 UTCSuperSport PSLSuperSport Variety 4</display-name>
   </channel>
-  <channel id="bellinzonavswil18:15utcbluesport1ch">
-    <display-name>Bellinzona vs Wil18:15 UTCBlue Sport 1 CH</display-name>
+  <channel id="losangelesdodgersvssanfranci02:10utcbeinsportsmax4espn3netherlandsmlbnetworkarenasport2premiumrsjsports2mlb.tvviaplaydkviaplayisviaplaynoviaplayse">
+    <display-name>Los Angeles Dodgers vs San Franci02:10 UTCBeIn Sports Max 4ESPN 3 NetherlandsMLB NetworkArena Sport 2 Premium RSJ Sports 2MLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
   </channel>
-  <channel id="natsubashoday207:00utcabematvnhkworld">
-    <display-name>Natsu Basho Day 207:00 UTCAbema TVNHK World</display-name>
+  <channel id="southamptonvsmiddlesbrough19:00utcskysportsfootballarenasport2sibeinsportsenglish1qatarbeinsportsmax5novasport5czvsport2suomiskysportsmaineventbeinsports2australiacosmotesport3grexxentrsport1ilvsport1nobeinsports1qatardiemasport2bgastrofootballcbssportsnetworkusaparamount+usskysporttopeventsporttv3arenasport2hrdazncanadaviaplaydkviaplayisviaplaynlviaplaynoviaplayse">
+    <display-name>Southampton vs Middlesbrough19:00 UTCSky Sports FootballArena Sport 2 SIBeIN Sports English 1 QatarBeIn Sports Max 5Nova Sport 5 CZV Sport 2 SuomiSky Sports Main EventBeIn Sports 2 AustraliaCosmote Sport 3 GRExxen TRSport 1 ILV Sport 1 NOBeIN Sports 1 QatarDiema Sport 2 BGAstro FootballCBS Sports Network USAParamount+ USSky Sport Top EventSport TV 3Arena Sport 2 HRDAZN CanadaViaplay DKViaplay ISViaplay NLViaplay NOViaplay SE</display-name>
   </channel>
-  <channel id="zuffaboxing06mosleyjr.vsboh01:00utcparamount+us">
-    <display-name>Zuffa Boxing 06 Mosley Jr. vs Boh01:00 UTCParamount+ US</display-name>
+  <channel id="clevelandguardiansvslosangele22:10utcmlb.tv">
+    <display-name>Cleveland Guardians vs Los Angele22:10 UTCMLB.tv</display-name>
   </channel>
-  <channel id="neuchâtelxamaxvsétoilecarou18:15utcbluesport4ch">
-    <display-name>Neuchâtel Xamax vs Étoile Carou18:15 UTCBlue Sport 4 CH</display-name>
+  <channel id="newyorkmetsvsdetroittigers23:10utcmlb.tv">
+    <display-name>New York Mets vs Detroit Tigers23:10 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="servettevslausanne-sport18:30utcbluesport3ch">
+    <display-name>Servette vs Lausanne-Sport18:30 UTCBlue Sport 3 CH</display-name>
+  </channel>
+  <channel id="texasrangersvsarizonadiamondb00:05utcmlb.tv">
+    <display-name>Texas Rangers vs Arizona Diamondb00:05 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="rostockseawolvesvsludwigsburg16:30utcsportklub3hrsportklub3rssportklub3si">
+    <display-name>Rostock Seawolves vs Ludwigsburg16:30 UTCSport Klub 3 HRSport Klub 3 RSSport Klub 3 SI</display-name>
+  </channel>
+  <channel id="gwangjufcvsfcseoul10:30utcstansportau">
+    <display-name>Gwangju FC vs FC Seoul10:30 UTCStan Sport AU</display-name>
   </channel>
 
 </tv>
