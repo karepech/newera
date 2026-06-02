@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="albaberlinvsbambergbaskets16:30utcarenasport3premiumrssport1ltdyn">
-    <display-name>ALBA Berlin vs Bamberg Baskets16:30 UTCArena Sport 3 Premium RSSport 1 LTDYN</display-name>
+  <channel id="croatiavsbelgium16:00utcsupersportpslsport1czechialaunebelgiumrtsdeuxchsrfzweiamazonprimevideoukdazn1germanynovatvhrprimasport2skysportselectnzdigisport2romaniarsila2arenasport1rsbeinsports1qatarbeinsportsenglish1qatardiemasport3bgpolsatsporttodksaziggosport14dazncanadassport+trdaznaustriadaznbelgiumdazngermanydaznswitzerlandsportklub1sistansportautv2sportxviaplayisviaplaynoviaplayseskygoitcmoresport1fifubotvrtssportspíler2husport1ilsporttv1supersport2hd(albania)">
+    <display-name>Croatia vs Belgium16:00 UTCSuperSport PSLSport 1 CzechiaLa Une BelgiumRTS Deux CHSRF ZweiAmazon Prime Video UKDAZN 1 GermanyNova TV HRPrima Sport 2Sky Sport Select NZDigi Sport 2 RomaniaRSI La 2Arena Sport 1 RSBeIN Sports 1 QatarBeIN Sports English 1 QatarDiema Sport 3 BGPolsat SportTOD KSAZiggo Sport 14DAZN CanadaS Sport+ TRDAZN AustriaDAZN BelgiumDAZN GermanyDAZN SwitzerlandSport Klub 1 SIStan Sport AUTV 2 Sport XViaplay ISViaplay NOViaplay SESky Go ITC More Sport 1 FIFuboTVRTS SportSpíler2 HUSport 1 ILSport TV 1Super Sport 2 HD (Albania)</display-name>
   </channel>
-  <channel id="bayernmünchenbasketballvsbonn18:30utcarenasport3premiumrssport1ltdyn">
-    <display-name>Bayern München Basketball vs Bonn18:30 UTCArena Sport 3 Premium RSSport 1 LTDYN</display-name>
+  <channel id="phoenixmercuryvsminnesotalynx02:00utcskysport1chskysport1deskysportsactionskysports+skysportsmaineventskysportsnflskysportsarenaskysporttopeventpeacockpremium">
+    <display-name>Phoenix Mercury vs Minnesota Lynx02:00 UTCSky Sport 1 CHSky Sport 1 DESky Sports ActionSky Sports+Sky Sports Main EventSky Sports NFLSky Sports ArenaSky Sport Top EventPeacock Premium</display-name>
   </channel>
-  <channel id="bulgariavsmontenegro16:00utcsport1ilprimasport2skysport1nzarenasport2rsbeinsports4qatartodksatvcg2daznbelgiumdazncanadadaznaustriadazngermanydaznswitzerlandsportklub1siviaplayisviaplaynoviaplayse">
-    <display-name>Bulgaria vs Montenegro16:00 UTCSport 1 ILPrima Sport 2Sky Sport 1 NZArena Sport 2 RSBeIN Sports 4 QatarTOD KSATVCG 2DAZN BelgiumDAZN CanadaDAZN AustriaDAZN GermanyDAZN SwitzerlandSport Klub 1 SIViaplay ISViaplay NOViaplay SE</display-name>
+  <channel id="newyorkyankeesvsclevelandgua23:05utctvasportsyesespn2newzealandmlb.tvespn2hondurasespn3paraguayfoxsports1br">
+    <display-name>New York Yankees vs Cleveland Gua23:05 UTCTVA SportsYESESPN 2 New ZealandMLB.tvESPN 2 HondurasESPN 3 ParaguayFox Sports 1 BR</display-name>
   </channel>
-  <channel id="rolandgarrosflaviocobollivsz09:00utc1sports">
-    <display-name>Roland Garros Flavio Cobolli vs Z09:00 UTC1sports</display-name>
+  <channel id="atlantadreamvsconnecticutsun23:30utctsn2">
+    <display-name>Atlanta Dream vs Connecticut Sun23:30 UTCTSN 2</display-name>
   </channel>
-  <channel id="washingtonnationalsvsmiamimar22:45utcmlb.tvbeinsportsmax4viaplaydkviaplayisviaplaynoviaplayse">
-    <display-name>Washington Nationals vs Miami Mar22:45 UTCMLB.tvBeIn Sports Max 4Viaplay DKViaplay ISViaplay NOViaplay SE</display-name>
+  <channel id="philadelphiaphilliesvssandieg22:40utcespn3netherlandstntsports2mlb.tv">
+    <display-name>Philadelphia Phillies vs San Dieg22:40 UTCESPN 3 NetherlandsTNT Sports 2MLB.tv</display-name>
   </channel>
-  <channel id="minnesotatwinsvschicagowhite23:40utcmlb.tv">
-    <display-name>Minnesota Twins vs Chicago White23:40 UTCMLB.tv</display-name>
+  <channel id="milwaukeebrewersvssanfrancisc23:40utcmlb.tv">
+    <display-name>Milwaukee Brewers vs San Francisc23:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="fenerbahçebasketbolvsanadolue17:00utcastrograndstandsport4il">
-    <display-name>Fenerbahçe Basketbol vs Anadolu E17:00 UTCAstro GrandstandSport 4 IL</display-name>
+  <channel id="losangelesangelsvscoloradoro01:38utcmlbnetworkespnnewzealandmlb.tv">
+    <display-name>Los Angeles Angels vs Colorado Ro01:38 UTCMLB NetworkESPN New ZealandMLB.tv</display-name>
   </channel>
-  <channel id="bravosdeleónvstigresdequint00:00utcastrograndstand">
-    <display-name>Bravos de León vs Tigres de Quint00:00 UTCAstro Grandstand</display-name>
+  <channel id="scpickszegedvsveszprémkc17:00utcm4sporthu">
+    <display-name>SC Pick Szeged vs Veszprém KC17:00 UTCM4 Sport HU</display-name>
   </channel>
 
 </tv>
