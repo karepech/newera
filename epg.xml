@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="maccabitelavivbcvshapoelhol17:50utcsportklub6sisport5il">
-    <display-name>Maccabi Tel Aviv BC vs Hapoel Hol17:50 UTCSport Klub 6 SISport 5 IL</display-name>
+  <channel id="atléticoottawavssupraduquébe23:00utctsn3tsn5">
+    <display-name>Atlético Ottawa vs Supra du Québe23:00 UTCTSN 3TSN 5</display-name>
   </channel>
-  <channel id="njpwvsddtpart210:00utcnjpwworld">
-    <display-name>NJPW vs DDT Part 210:00 UTCNJPW World</display-name>
+  <channel id="georgiawomenvsgreecewomen17:00utcert2gr">
+    <display-name>Georgia Women vs Greece Women17:00 UTCERT 2 GR</display-name>
   </channel>
-  <channel id="baltimoreoriolesvsseattlemari22:35utcespn2newzealandmasntsn2mlb.tvviaplaydktntsports2viaplayisviaplaynoviaplayse">
-    <display-name>Baltimore Orioles vs Seattle Mari22:35 UTCESPN 2 New ZealandMASNTSN 2MLB.tvViaplay DKTNT Sports 2Viaplay ISViaplay NOViaplay SE</display-name>
+  <channel id="sandiegopadresvscincinnatire01:40utcmlb.tv">
+    <display-name>San Diego Padres vs Cincinnati Re01:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="nanterrevsasmonacobasket19:00utcdaznaustraliadaznbelgiumdaznitalydaznportugalsportklub2hrsportklub2rssportklub2sidaznaustriadazngermanydaznswitzerland">
-    <display-name>Nanterre vs AS Monaco Basket19:00 UTCDAZN AustraliaDAZN BelgiumDAZN ItalyDAZN PortugalSport Klub 2 HRSport Klub 2 RSSport Klub 2 SIDAZN AustriaDAZN GermanyDAZN Switzerland</display-name>
+  <channel id="baltimoreoriolesvsseattlemari22:35utcmasnmlb.tv">
+    <display-name>Baltimore Orioles vs Seattle Mari22:35 UTCMASNMLB.tv</display-name>
   </channel>
-  <channel id="seattleseawolvesvscalifornial01:00utcpremiersportsmalaysiaskysport3nztruesport4">
-    <display-name>Seattle Seawolves vs California L01:00 UTCPremier Sports MalaysiaSky Sport 3 NZTrue Sport 4</display-name>
+  <channel id="fcbarcelonabasquetvscb1939c18:00utccosmotesport7grctsportdaznitalydaznspainsport4ilsportklubpolska">
+    <display-name>FC Barcelona Basquet vs CB 1939 C18:00 UTCCosmote Sport 7 GRCT SportDAZN ItalyDAZN SpainSport 4 ILSport Klub Polska</display-name>
   </channel>
-  <channel id="washingtonmysticsvsindianafev23:00utcskysportsactionskysportsmaineventskysportsnflpeacockpremiumskysportnba">
-    <display-name>Washington Mystics vs Indiana Fev23:00 UTCSky Sports ActionSky Sports Main EventSky Sports NFLPeacock PremiumSky Sport NBA</display-name>
+  <channel id="indonesiavsmozambique13:00utcvidio.com">
+    <display-name>Indonesia vs Mozambique13:00 UTCVidio.com</display-name>
+  </channel>
+  <channel id="almeríavscastellón19:00utcbeinsportshd1malaysiabeinsportshd1thailandarenasport1hrdaznaustriadaznbelgiumdazngermanydaznportugaldaznspainviaplaynosupersportvariety4beinsportshd1singaporepremiersports1ie">
+    <display-name>Almería vs Castellón19:00 UTCBeIn Sports HD 1 MalaysiaBeIn Sports HD 1 ThailandArena Sport 1 HRDAZN AustriaDAZN BelgiumDAZN GermanyDAZN PortugalDAZN SpainViaplay NOSuperSport Variety 4BeIn Sports HD 1 SingaporePremier Sports 1 IE</display-name>
+  </channel>
+  <channel id="russiavstrinidadandtobago17:00utcsportbox.ru">
+    <display-name>Russia vs Trinidad and Tobago17:00 UTCSportbox.ru</display-name>
+  </channel>
+  <channel id="azerbaijanvssanmarino18:00utctv2playbeinsports3qatardiemasport3bgprimasport1skysport3nzsportklub4sidaznaustriadaznbelgiumdazncanadadazngermanydaznswitzerlandviaplayisviaplaynoviaplaysetodksa">
+    <display-name>Azerbaijan vs San Marino18:00 UTCTV 2 PlayBeIN Sports 3 QatarDiema Sport 3 BGPrima Sport 1Sky Sport 3 NZSport Klub 4 SIDAZN AustriaDAZN BelgiumDAZN CanadaDAZN GermanyDAZN SwitzerlandViaplay ISViaplay NOViaplay SETOD KSA</display-name>
+  </channel>
+  <channel id="miamimarlinsvsarizonadiamondb22:40utcmlb.tv">
+    <display-name>Miami Marlins vs Arizona Diamondb22:40 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="peruvsspain02:00utcla1amazonprimevideoukespn2hondurassupersportpsltv2playdigisport1romaniaskysport2nzarenasport1premiumrsbeinsports2qatardazn2germanydaznbelgiumdazncanadadiemasport3bgfoxsports2usiqiyicnpolsatsportprimasport1ssport+trsportklub1hrsportklub1sisporttv1tlncanadaziggosport14daznaustriadazngermanydaznswitzerlandsport2ilstansportauviaplayisviaplaynoviaplayse">
+    <display-name>Peru vs Spain02:00 UTCLa 1Amazon Prime Video UKESPN 2 HondurasSuperSport PSLTV 2 PlayDigi Sport 1 RomaniaSky Sport 2 NZArena Sport 1 Premium RSBeIN Sports 2 QatarDAZN 2 GermanyDAZN BelgiumDAZN CanadaDiema Sport 3 BGFox Sports 2 USIQiyi CNPolsat SportPrima Sport 1S Sport+ TRSport Klub 1 HRSport Klub 1 SISport TV 1TLN CanadaZiggo Sport 14DAZN AustriaDAZN GermanyDAZN SwitzerlandSport 2 ILStan Sport AUViaplay ISViaplay NOViaplay SE</display-name>
+  </channel>
+  <channel id="ctbcbrothersvstsghawks10:35utccpbltv">
+    <display-name>CTBC Brothers vs TSG Hawks10:35 UTCCPBL TV</display-name>
+  </channel>
+  <channel id="serbiawomenvsdenmarkwomen16:00utcarenasport3premiumrsarenasport1premiumrsdr1">
+    <display-name>Serbia Women vs Denmark Women16:00 UTCArena Sport 3 Premium RSArena Sport 1 Premium RSDR 1</display-name>
+  </channel>
+  <channel id="luxembourgwomenvsbelgiumwomen17:00utccanvas">
+    <display-name>Luxembourg Women vs Belgium Women17:00 UTCCanvas</display-name>
+  </channel>
+  <channel id="belarusvsburkinafaso16:30utcskysport4nztv2playdaznbelgiumbeinsportsenglish1qatardigisport3romaniafoxsoccerplusprimasport4daznaustriadazncanadadazngermanydaznswitzerlandviaplayisviaplaynoviaplaysesportklub8rstodksa">
+    <display-name>Belarus vs Burkina Faso16:30 UTCSky Sport 4 NZTV 2 PlayDAZN BelgiumBeIN Sports English 1 QatarDigi Sport 3 RomaniaFox Soccer PlusPrima Sport 4DAZN AustriaDAZN CanadaDAZN GermanyDAZN SwitzerlandViaplay ISViaplay NOViaplay SESport Klub 8 RSTOD KSA</display-name>
+  </channel>
+  <channel id="newyorkmetsvsst.louiscardin23:10utcmlb.tv">
+    <display-name>New York Mets vs St. Louis Cardin23:10 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="norwaywomenvsaustriawomen16:00utctv2playorfeins">
+    <display-name>Norway Women vs Austria Women16:00 UTCTV 2 PlayORF Eins</display-name>
   </channel>
 
 </tv>
