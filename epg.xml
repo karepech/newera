@@ -1,52 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="iranvolleyballvsargentinavoll23:00utcpolsatsport2sportklub3sisportklub3hrsportklub3rs">
-    <display-name>Iran Volleyball vs Argentina Voll23:00 UTCPolsat Sport 2Sport Klub 3 SISport Klub 3 HRSport Klub 3 RS</display-name>
+  <channel id="rosengårdwomenvsnorrköpingwom11:00utcviaplaynl">
+    <display-name>Rosengård Women vs Norrköping Wom11:00 UTCViaplay NL</display-name>
   </channel>
-  <channel id="wakefieldtrinitywildcatsvswig19:00utcskysports+foxleaguesportdigital1+foxsoccerplusskysportsarena">
-    <display-name>Wakefield Trinity Wildcats vs Wig19:00 UTCSky Sports+FOX LeagueSportDigital1+Fox Soccer PlusSky Sports Arena</display-name>
+  <channel id="washingtonnationalsvsseattlem20:05utcmlb.tv">
+    <display-name>Washington Nationals vs Seattle M20:05 UTCMLB.tv</display-name>
   </channel>
-  <channel id="bostonredsoxvstexasrangers23:10utcnesnmlb.tv">
-    <display-name>Boston Red Sox vs Texas Rangers23:10 UTCNESNMLB.tv</display-name>
+  <channel id="newyorkmetsvsatlantabraves20:10utcmlb.tv">
+    <display-name>New York Mets vs Atlanta Braves20:10 UTCMLB.tv</display-name>
   </channel>
-  <channel id="dallaswingsvsphoenixmercury01:00utcamazonprimevideouk">
-    <display-name>Dallas Wings vs Phoenix Mercury01:00 UTCAmazon Prime Video UK</display-name>
+  <channel id="barcelonasprintrace08:05utcdaznspain">
+    <display-name>Barcelona Sprint Race08:05 UTCDAZN Spain</display-name>
   </channel>
-  <channel id="dzikiwarszawavsarkagdyniabas18:15utcpolsatsport3">
-    <display-name>Dziki Warszawa vs Arka Gdynia Bas18:15 UTCPolsat Sport 3</display-name>
+  <channel id="connecticutsunvsindianafever22:00utcskysportsactionskysports+skysporttopeventskysportsnflpeacockpremiumskysportsarena">
+    <display-name>Connecticut Sun vs Indiana Fever22:00 UTCSky Sports ActionSky Sports+Sky Sport Top EventSky Sports NFLPeacock PremiumSky Sports Arena</display-name>
   </channel>
-  <channel id="betvictorworldcupdartsday210:00utcskysportsnfl">
-    <display-name>BetVictor World Cup Darts Day 210:00 UTCSky Sports NFL</display-name>
+  <channel id="turkeyvolleyballvsitalyvolley23:30utcssporttrtrtsportrastrograndstandastrosportsplusarenasport2premiumrspolsatsportssport+trsportklub1si">
+    <display-name>Turkey Volleyball vs Italy Volley23:30 UTCS Sport TRTRT Spor TRAstro GrandstandAstro Sports PlusArena Sport 2 Premium RSPolsat SportS Sport+ TRSport Klub 1 SI</display-name>
   </channel>
-  <channel id="israelvolleyballwomenvsslovak16:30utcjojšport">
-    <display-name>Israel Volleyball Women vs Slovak16:30 UTCJOJ Šport</display-name>
+  <channel id="pirelliemiliaromagnaroundrace12:00utcspotv1thailandastroarena2">
+    <display-name>Pirelli Emilia Romagna Round Race12:00 UTCSPO TV 1 ThailandAstro Arena 2</display-name>
   </channel>
-  <channel id="turkeyvolleyballvsfrancevolle23:30utcssporttrtrtsportrarenasport2premiumrspolsatsportssport+trastrograndstandastrosportsplussportklub1sisportklub2hrsportklub2rs">
-    <display-name>Turkey Volleyball vs France Volle23:30 UTCS Sport TRTRT Spor TRArena Sport 2 Premium RSPolsat SportS Sport+ TRAstro GrandstandAstro Sports PlusSport Klub 1 SISport Klub 2 HRSport Klub 2 RS</display-name>
+  <channel id="australiacricketwomenvssouth13:30utcsupersportcricketskysportsmaineventskysport1nzsupersportgrandstandskysport4nz">
+    <display-name>Australia Cricket Women vs South13:30 UTCSuperSport CricketSky Sports Main EventSky Sport 1 NZSuperSport GrandstandSky Sport 4 NZ</display-name>
   </channel>
-  <channel id="maccabitelavivbcvshapoelhol12:00utcsport5ilsportklub3sisportklub3hrsportklub3rs">
-    <display-name>Maccabi Tel Aviv BC vs Hapoel Hol12:00 UTCSport 5 ILSport Klub 3 SISport Klub 3 HRSport Klub 3 RS</display-name>
+  <channel id="finlandvolleyballwomenvsisrae14:00utcyletv2">
+    <display-name>Finland Volleyball Women vs Israe14:00 UTCYle TV2</display-name>
   </channel>
-  <channel id="weichuandragonsvsctbcbrother10:35utccpbltv">
-    <display-name>Wei Chuan Dragons vs CTBC Brother10:35 UTCCPBL TV</display-name>
+  <channel id="kansascityroyalsvshoustonast00:10utcbeinsportsmax4tvasportsmlb.tvviaplayis">
+    <display-name>Kansas City Royals vs Houston Ast00:10 UTCBeIn Sports Max 4TVA SportsMLB.tvViaplay IS</display-name>
   </channel>
-  <channel id="englandcricketwomenvssrilank17:30utcskysportsmixskysportsmainevent">
-    <display-name>England Cricket Women vs Sri Lank17:30 UTCSky Sports MixSky Sports Main Event</display-name>
+  <channel id="losangelesangelsvstampabayr01:38utcmlb.tv">
+    <display-name>Los Angeles Angels vs Tampa Bay R01:38 UTCMLB.tv</display-name>
   </channel>
-  <channel id="ukrainevolleyballvscubavolley08:30utcrtv:športarenasport2premiumrspolsatsportsportklub1hrsportklub1simaxsport2bg">
-    <display-name>Ukraine Volleyball vs Cuba Volley08:30 UTCRTV:ŠportArena Sport 2 Premium RSPolsat SportSport Klub 1 HRSport Klub 1 SIMAX Sport 2 BG</display-name>
+  <channel id="melbournefootballclubvsessend03:15utcfoxfootyfoxsoccerplustntsports1abcaustraliaauabcaustraliainabcaustraliamy">
+    <display-name>Melbourne Football Club vs Essend03:15 UTCFox FootyFox Soccer PlusTNT Sports 1ABC Australia AUABC Australia INABC Australia MY</display-name>
   </channel>
-  <channel id="estoniavolleyballwomenvshunga15:30utcdunaworld">
-    <display-name>Estonia Volleyball Women vs Hunga15:30 UTCDuna World</display-name>
+  <channel id="torontobluejaysvsnewyorkyan19:07utcespn2netherlandsespnsouthafricatntsports2peacockpremiummlb.tvsportsneteastsportsnetonesportsnetontariosportsnetpacificsportsnetwesttvasportsyes">
+    <display-name>Toronto Blue Jays vs New York Yan19:07 UTCESPN 2 NetherlandsESPN South AfricaTNT Sports 2Peacock PremiumMLB.tvSportsNet EastSportsNet OneSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsYES</display-name>
   </channel>
-  <channel id="milwaukeebrewersvsphiladelphia23:40utcespnsouthafricamlb.tv">
-    <display-name>Milwaukee Brewers vs Philadelphia23:40 UTCESPN South AfricaMLB.tv</display-name>
+  <channel id="ctbcbrothersvsrakutenmonkeys09:05utccpbltv">
+    <display-name>CTBC Brothers vs Rakuten Monkeys09:05 UTCCPBL TV</display-name>
   </channel>
-  <channel id="pittsburghpiratesvsmiamimarli22:40utcmlb.tv">
-    <display-name>Pittsburgh Pirates vs Miami Marli22:40 UTCMLB.tv</display-name>
+  <channel id="24hoursoflemans14:00utctntsports3trutvhbomaxusstansportauquestdaznspainhbomaxspaineurosport1spain">
+    <display-name>24 Hours of Le Mans14:00 UTCTNT Sports 3truTVHBO Max USStan Sport AUQuestDAZN SpainHBO Max SpainEurosport 1 Spain</display-name>
   </channel>
-  <channel id="belgiumvolleyballvsserbiavoll19:30utcssport2trarenasport2premiumrspolsatsport2ssport+trarenasport3premiumrssportklub4si">
-    <display-name>Belgium Volleyball vs Serbia Voll19:30 UTCS Sport 2 TRArena Sport 2 Premium RSPolsat Sport 2S Sport+ TRArena Sport 3 Premium RSSport Klub 4 SI</display-name>
+  <channel id="saskatchewanroughridersvsbcli23:00utccbssportsnetworkusatsn3">
+    <display-name>Saskatchewan Roughriders vs BC Li23:00 UTCCBS Sports Network USATSN 3</display-name>
+  </channel>
+  <channel id="tommyfuryvseddiehall17:00utcdaznukdaznspaindaznusdazncanadamaineventkayosportsdaznaustraliadazngermanydaznpolanddaznfrancedaznaustriadaznswitzerland">
+    <display-name>Tommy Fury vs Eddie Hall17:00 UTCDAZN UKDAZN SpainDAZN USDAZN CanadaMain EventKayo SportsDAZN AustraliaDAZN GermanyDAZN PolandDAZN FranceDAZN AustriaDAZN Switzerland</display-name>
+  </channel>
+  <channel id="hurricanessuperrugbyvsbluess07:05utcskysportsarenapremiersportsmalaysiasupersportrugbysupersportgrandstandtruesport4skysport1nz">
+    <display-name>Hurricanes Super Rugby vs Blues S07:05 UTCSky Sports ArenaPremier Sports MalaysiaSuperSport RugbySuperSport GrandstandTrue Sport 4Sky Sport 1 NZ</display-name>
+  </channel>
+  <channel id="bulgariavolleyballvsargentina18:30utcssport2trsupersport3hd(albania)polsatsport2arenasport1rsssport+trsportklub3sidaznitaly">
+    <display-name>Bulgaria Volleyball vs Argentina18:30 UTCS Sport 2 TRSuper Sport 3 HD (Albania)Polsat Sport 2Arena Sport 1 RSS Sport+ TRSport Klub 3 SIDAZN Italy</display-name>
+  </channel>
+  <channel id="parramattaeelsvscanberraraide09:30utcfoxleaguefoxsports2usskysport1nzkayosports">
+    <display-name>Parramatta Eels vs Canberra Raide09:30 UTCFOX LeagueFox Sports 2 USSky Sport 1 NZKayo Sports</display-name>
+  </channel>
+  <channel id="greecevolleyballwomenvsportug15:00utcsporttv3">
+    <display-name>Greece Volleyball Women vs Portug15:00 UTCSport TV 3</display-name>
+  </channel>
+  <channel id="milwaukeebrewersvsphiladelphia23:10utcfoxdeportesfoxsports1ussportsneteastsportsnetontariosportsnetpacificsportsnetwesttntsports2espn2netherlandsmlb.tv">
+    <display-name>Milwaukee Brewers vs Philadelphia23:10 UTCFox DeportesFox Sports 1 USSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTNT Sports 2ESPN 2 NetherlandsMLB.tv</display-name>
+  </channel>
+  <channel id="aalborghåndboldvsfcbarcelona16:00utceurosport2francearenasport1hrarenasport3premiumrsdazn1spainsporttv4vsport1noziggosport2sport4ildigisport1romaniasport1ltdazncanadaprimasport1tv2playviaplaydk">
+    <display-name>Aalborg Håndbold vs FC Barcelona16:00 UTCEurosport 2 FranceArena Sport 1 HRArena Sport 3 Premium RSDAZN 1 SpainSport TV 4V Sport 1 NOZiggo Sport 2Sport 4 ILDigi Sport 1 RomaniaSport 1 LTDAZN CanadaPrima Sport 1TV 2 PlayViaplay DK</display-name>
+  </channel>
+  <channel id="smackdown#139900:00utcusanetworknetflix">
+    <display-name>SmackDown #139900:00 UTCUSA NetworkNetflix</display-name>
+  </channel>
+  <channel id="bostonredsoxvstexasrangers20:10utcmlb.tvnesn">
+    <display-name>Boston Red Sox vs Texas Rangers20:10 UTCMLB.tvNESN</display-name>
+  </channel>
+  <channel id="barcelonasprintrace12:15utcdaznspain">
+    <display-name>Barcelona Sprint Race12:15 UTCDAZN Spain</display-name>
+  </channel>
+  <channel id="olimpiamilanovsreyerveneziam18:00utcarenasport1hrsport4ilarenasport2premiumrs">
+    <display-name>Olimpia Milano vs Reyer Venezia M18:00 UTCArena Sport 1 HRSport 4 ILArena Sport 2 Premium RS</display-name>
+  </channel>
+  <channel id="barcelona-catalunyagrandprixqu14:00utcappletv+skysportf1hdgermanyskysportf1italyskysportsf1skysport2nzdaznspaintv3spainmovistarplus+telecincoes">
+    <display-name>Barcelona-Catalunya Grand Prix Qu14:00 UTCApple TV+Sky Sport F1 HD GermanySky Sport F1 ItalySky Sports F1Sky Sport 2 NZDAZN SpainTV3 SpainMovistar Plus+Telecinco ES</display-name>
   </channel>
 
 </tv>
