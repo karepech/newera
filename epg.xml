@@ -1,19 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="basketzielonagóravslegiawars18:15utcpolsatsport">
-    <display-name>Basket Zielona Góra vs Legia Wars18:15 UTCPolsat Sport</display-name>
+  <channel id="st.louiscardinalsvssandiego23:45utctntsports1mlb.tv">
+    <display-name>St. Louis Cardinals vs San Diego23:45 UTCTNT Sports 1MLB.tv</display-name>
   </channel>
-  <channel id="philadelphiaphilliesvsmiamima22:40utcrds2mlb.tvpeacockpremium">
-    <display-name>Philadelphia Phillies vs Miami Ma22:40 UTCRDS 2MLB.tvPeacock Premium</display-name>
+  <channel id="vancouverbanditsvsscarborough02:00utccebl+">
+    <display-name>Vancouver Bandits vs Scarborough02:00 UTCCEBL+</display-name>
   </channel>
-  <channel id="vegasgoldenknightsvscarolina00:00utcabcarenasport2premiumrsbeinsportshd3francecmoresport1fisubcbcespn1netherlandsespn3paraguayespn4netherlandsespnaustraliaespndeportesespnnewzealandespnsouthafricamaxsport2bgmovistar#vamosmovistardeportespremiersports2ieviaplaysports2uksportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasportstvpsportvsport1suomidaznbelgiumdazncroatiadaznczechiadazngreecedaznpolanddaznsloveniadaznturkeysporttv3daznitalydaznportugalviaplayis">
-    <display-name>Vegas Golden Knights vs Carolina00:00 UTCABCArena Sport 2 Premium RSBeIn Sports HD 3 FranceC More Sport 1 FISubCBCESPN 1 NetherlandsESPN 3 ParaguayESPN 4 NetherlandsESPN AustraliaESPN DeportesESPN New ZealandESPN South AfricaMAX Sport 2 BGMovistar #VamosMovistar DeportesPremier Sports 2 IEViaplay Sports 2 UKSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsTVP SportV Sport 1 SuomiDAZN BelgiumDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN PolandDAZN SloveniaDAZN TurkeySport TV 3DAZN ItalyDAZN PortugalViaplay IS</display-name>
+  <channel id="athleticsvspittsburghpirates01:40utcnbcsportscaliforniamlb.tvviaplaydkviaplayisviaplaynoviaplayse">
+    <display-name>Athletics vs Pittsburgh Pirates01:40 UTCNBC Sports CaliforniaMLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
   </channel>
-  <channel id="seattleseawolvesvscalifornial02:00utcpremiersportsmalaysiatruesport4">
-    <display-name>Seattle Seawolves vs California L02:00 UTCPremier Sports MalaysiaTrue Sport 4</display-name>
+  <channel id="iraqvsnorway22:00utcfubotvbbconertssportorfeinsarenasport1sibeinsportshd1francem6rte2supersportpslfoxusrtsdeuxchrtv:športsportbox.rutigosportsboliviatsn1tsn3tsn4tvslovenija2ert2gritvxrdsskysport2deskysport3deskysport4detrtsportrtv2sportxtv4sesport1ilsporzabetelemundotsn5tvpsportyletv2bbciplayerrsila2skysport2chsporttv5cmoresport1fictsportdaznitalym4sporthupeacockpremiumsrfzweisupersportgrandstandarenasport1premiumrsdaznspainnpo1supersport2hd(albania)tv2playtvcg2azamsports2azamsports4supersportmáximo1supersportlaligasupersportfootballbbconescotland">
+    <display-name>Iraq vs Norway22:00 UTCFuboTVBBC OneRTS SportORF EinsArena Sport 1 SIBeIn Sports HD 1 FranceM6RTE2SuperSport PSLFOX USRTS Deux CHRTV:ŠportSportbox.ruTigo Sports BoliviaTSN 1TSN 3TSN 4TV Slovenija 2ERT 2 GRITVXRDSSky Sport 2 DESky Sport 3 DESky Sport 4 DETRT Spor TRTV 2 Sport XTV 4 SESport 1 ILSporza BETelemundoTSN 5TVP SportYle TV2BBC iPlayerRSI La 2Sky Sport 2 CHSport TV 5C More Sport 1 FICT SportDAZN ItalyM4 Sport HUPeacock PremiumSRF ZweiSuperSport GrandstandArena Sport 1 Premium RSDAZN SpainNPO 1Super Sport 2 HD (Albania)TV 2 PlayTVCG 2Azam Sports 2Azam Sports 4SuperSport Máximo 1SuperSport La LigaSuperSport FootballBBC One Scotland</display-name>
   </channel>
-  <channel id="bramptonhoneybadgersvsniagara23:30utccebl+">
-    <display-name>Brampton Honey Badgers vs Niagara23:30 UTCCEBL+</display-name>
+  <channel id="bostonredsoxvstorontoblueja22:45utcespn2netherlandssportsnetonetvasportsnesnarenasport2premiumrsmlb.tvviaplaydkviaplayisviaplaynoviaplaysebeinsportsmax4">
+    <display-name>Boston Red Sox vs Toronto Blue Ja22:45 UTCESPN 2 NetherlandsSportsNet OneTVA SportsNESNArena Sport 2 Premium RSMLB.tvViaplay DKViaplay ISViaplay NOViaplay SEBeIn Sports Max 4</display-name>
+  </channel>
+  <channel id="cincinnatiredsvsnewyorkmets23:10utcmlb.tv">
+    <display-name>Cincinnati Reds vs New York Mets23:10 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="reyerveneziamestrevsolimpiam18:00utcarenasport3premiumrspolsatsport3sport4ilarenasport1hr">
+    <display-name>Reyer Venezia Mestre vs Olimpia M18:00 UTCArena Sport 3 Premium RSPolsat Sport 3Sport 4 ILArena Sport 1 HR</display-name>
+  </channel>
+  <channel id="houstonastrosvsdetroittigers00:10utcmlb.tv">
+    <display-name>Houston Astros vs Detroit Tigers00:10 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="raw#172500:00utcnetflix">
+    <display-name>RAW #172500:00 UTCNetflix</display-name>
+  </channel>
+  <channel id="uni-presidentlionsvsrakutenmo10:35utccpbltv">
+    <display-name>Uni-President Lions vs Rakuten Mo10:35 UTCCPBL TV</display-name>
   </channel>
 
 </tv>
