@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="cincinnatiredsvsmilwaukeebrew23:10utcmlb.tv">
-    <display-name>Cincinnati Reds vs Milwaukee Brew23:10 UTCMLB.tv</display-name>
+  <channel id="torontobluejaysvshoustonastr20:07utcmlbnetworkattheracesmlb.tvsportsneteastsportsnetontariosportsnetpacificsportsnetwest">
+    <display-name>Toronto Blue Jays vs Houston Astr20:07 UTCMLB NetworkAt The RacesMLB.tvSportsNet EastSportsNet OntarioSportsNet PacificSportsNet West</display-name>
   </channel>
-  <channel id="newzealandvsegypt01:00utctvnz+rúvitvcmoresport1fitv2sportxtvp1utvnictvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegjojšportarenasport1sibeinsportshd1franceitvxrdsrte2skysport2chskysport2deskysport3deskysport4desporttv5sportvsupersportpsltelemundotigosportsboliviatsn1tsn3tsn4tsn5tv4setvpsporttycsportsargazamsports2azamsports4foxsports1usrtssportarenasport1premiumrsarenasport1bihfubotvm4sporthunpo1peacockpremiumrsila2rtsdeuxchsportbox.rusport+srfzweisupersport2hd(albania)supersportgrandstandtv2playdaznitaly">
-    <display-name>New Zealand vs Egypt01:00 UTCTVNZ+RÚVITVC More Sport 1 FITV 2 Sport XTVP 1UTV NICTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegJOJ ŠportArena Sport 1 SIBeIn Sports HD 1 FranceITVXRDSRTE2Sky Sport 2 CHSky Sport 2 DESky Sport 3 DESky Sport 4 DESport TV 5SporTVSuperSport PSLTelemundoTigo Sports BoliviaTSN 1TSN 3TSN 4TSN 5TV 4 SETVP SportTyC Sports ARGAzam Sports 2Azam Sports 4Fox Sports 1 USRTS SportArena Sport 1 Premium RSArena Sport 1 BiHFuboTVM4 Sport HUNPO 1Peacock PremiumRSI La 2RTS Deux CHSportbox.ruSport +SRF ZweiSuper Sport 2 HD (Albania)SuperSport GrandstandTV 2 PlayDAZN Italy</display-name>
+  <channel id="st.louiscardinalsvsarizonadi23:45utcmlb.tv">
+    <display-name>St. Louis Cardinals vs Arizona Di23:45 UTCMLB.tv</display-name>
   </channel>
-  <channel id="chicagowhitesoxvsclevelandgu23:40utcmlb.tv">
-    <display-name>Chicago White Sox vs Cleveland Gu23:40 UTCMLB.tv</display-name>
+  <channel id="u.s.open202600:00utcastrobadminton1">
+    <display-name>U.S. Open 202600:00 UTCAstro Badminton 1</display-name>
   </channel>
-  <channel id="francevsiraq21:00utcbbconem6rtv:športfoxusdaserstedr1orfeinsrte2tvslovenija2tvp1yletv2azamsports2azamsports4arenasport1sibbciplayerbeinsportshd1francerdsrtssportskysport2chskysport2deskysport3deskysport4desport1ilsporttv5supersportpsltigosportsboliviatsn1tsn3tsn4tsn5tvpsportarenasport1premiumrsfubotvm4sporthunpo1nrk1nopeacockpremiumrsila2rtsdeuxchsportbox.rusport+srfzweisupersportgrandstandtelemundocmoresport1fidaznitalysupersportmáximo1ctsportsupersport2hd(albania)tipik">
-    <display-name>France vs Iraq21:00 UTCBBC OneM6RTV:ŠportFOX USDas ErsteDR 1ORF EinsRTE2TV Slovenija 2TVP 1Yle TV2Azam Sports 2Azam Sports 4Arena Sport 1 SIBBC iPlayerBeIn Sports HD 1 FranceRDSRTS SportSky Sport 2 CHSky Sport 2 DESky Sport 3 DESky Sport 4 DESport 1 ILSport TV 5SuperSport PSLTigo Sports BoliviaTSN 1TSN 3TSN 4TSN 5TVP SportArena Sport 1 Premium RSFuboTVM4 Sport HUNPO 1NRK 1 NOPeacock PremiumRSI La 2RTS Deux CHSportbox.ruSport +SRF ZweiSuperSport GrandstandTelemundoC More Sport 1 FIDAZN ItalySuperSport Máximo 1CT SportSuper Sport 2 HD (Albania)Tipik</display-name>
+  <channel id="irelandcricketwomenvssrilank13:30utcsupersportpslskysport1nzskysportsmainevent">
+    <display-name>Ireland Cricket Women vs Sri Lank13:30 UTCSuperSport PSLSky Sport 1 NZSky Sports Main Event</display-name>
   </channel>
-  <channel id="shelbournevsbohemians18:45utcloitvie">
-    <display-name>Shelbourne vs Bohemians18:45 UTCLOI TV IE</display-name>
+  <channel id="ottawablackjacksvsscarborough23:30utccebl+">
+    <display-name>Ottawa BlackJacks vs Scarborough23:30 UTCCEBL+</display-name>
   </channel>
   <channel id="miamimarlinsvstexasrangers22:40utcmlb.tv">
     <display-name>Miami Marlins vs Texas Rangers22:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="pontepretavsnovorizontino23:00utcfoxsports1br">
-    <display-name>Ponte Preta vs Novorizontino23:00 UTCFox Sports 1 BR</display-name>
+  <channel id="sandiegopadresvsatlantabrave02:10utcespnnewzealandespnsouthafricaespn1netherlandsespnaustraliaespndeportesespnusfoxsports1brtntsports2viaplayismlb.tvviaplaydkviaplaynoviaplayse">
+    <display-name>San Diego Padres vs Atlanta Brave02:10 UTCESPN New ZealandESPN South AfricaESPN 1 NetherlandsESPN AustraliaESPN DeportesESPN USFox Sports 1 BRTNT Sports 2Viaplay ISMLB.tvViaplay DKViaplay NOViaplay SE</display-name>
+  </channel>
+  <channel id="australiacricketwomenvspakist17:30utcskysportscricketsupersportcricketskysportsmaineventskysport1nzsupersportgrandstand">
+    <display-name>Australia Cricket Women vs Pakist17:30 UTCSky Sports CricketSuperSport CricketSky Sports Main EventSky Sport 1 NZSuperSport Grandstand</display-name>
+  </channel>
+  <channel id="panamavscroatia23:00utcbbconerúvctvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegfoxusvidio.comazamsports2azamsports4bbciplayercmoresport2fidr1jojšportrte2sport3iltrtsportrtv4setsn1tsn3tsn4tsn5arenasport1premiumrsarenasport1sibeinsportshd1franceert2grnpo1nrk1nordsrsila2skysport2chskysport2deskysport3deskysport4desport1ilsporttv5sport+supersportgrandstandsupersportpsltelemundotigosportsboliviatvcg2tvpsportdaznitalyfubotvpeacockpremiumrtsdeuxchrtssportsrfzweisupersportmáximo1cmoresport1fim4sporthusportbox.rusupersport2hd(albania)tipiktvslovenija2tycsportsarg">
+    <display-name>Panama vs Croatia23:00 UTCBBC OneRÚVCTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegFOX USVidio.comAzam Sports 2Azam Sports 4BBC iPlayerC More Sport 2 FIDR 1JOJ ŠportRTE2Sport 3 ILTRT Spor TRTV 4 SETSN 1TSN 3TSN 4TSN 5Arena Sport 1 Premium RSArena Sport 1 SIBeIn Sports HD 1 FranceERT 2 GRNPO 1NRK 1 NORDSRSI La 2Sky Sport 2 CHSky Sport 2 DESky Sport 3 DESky Sport 4 DESport 1 ILSport TV 5Sport +SuperSport GrandstandSuperSport PSLTelemundoTigo Sports BoliviaTVCG 2TVP SportDAZN ItalyFuboTVPeacock PremiumRTS Deux CHRTS SportSRF ZweiSuperSport Máximo 1C More Sport 1 FIM4 Sport HUSportbox.ruSuper Sport 2 HD (Albania)TipikTV Slovenija 2TyC Sports ARG</display-name>
   </channel>
 
 </tv>
