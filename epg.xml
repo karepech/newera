@@ -1,58 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="detroittigersvshoustonastros17:40utcpeacockpremiummlb.tv">
-    <display-name>Detroit Tigers vs Houston Astros17:40 UTCPeacock PremiumMLB.tv</display-name>
+  <channel id="philadelphiaphilliesvspittsbur22:40utcmlb.tv">
+    <display-name>Philadelphia Phillies vs Pittsbur22:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="australiacricketwomenvsindia13:30utcsupersportcricketskysports+skysport4nzsupersportgrandstand">
-    <display-name>Australia Cricket Women vs India13:30 UTCSuperSport CricketSky Sports+Sky Sport 4 NZSuperSport Grandstand</display-name>
+  <channel id="bostonredsoxvswashingtonnati23:10utcnesnmlb.tv">
+    <display-name>Boston Red Sox vs Washington Nati23:10 UTCNESNMLB.tv</display-name>
   </channel>
-  <channel id="nelsongiantsvsaucklandtuatara06:00utcskysport3nzespn+">
-    <display-name>Nelson Giants vs Auckland Tuatara06:00 UTCSky Sport 3 NZESPN +</display-name>
-  </channel>
-  <channel id="collision#15000:00utctntmaxus">
-    <display-name>Collision #15000:00 UTCTNTMax US</display-name>
-  </channel>
-  <channel id="germanyhockeyvsspainhockey10:30utcmagentatvde">
-    <display-name>Germany Hockey vs Spain Hockey10:30 UTCMagentaTV DE</display-name>
-  </channel>
-  <channel id="losangelesknightridersvsseat21:30utcskysportscricketskysport3nz">
-    <display-name>Los Angeles Knight Riders vs Seat21:30 UTCSky Sports CricketSky Sport 3 NZ</display-name>
-  </channel>
-  <channel id="montrealalouettesvsottawaredb23:00utcrdstsn1tsn5tsn3tsn4cbssportsnetworkusa">
-    <display-name>Montreal Alouettes vs Ottawa Redb23:00 UTCRDSTSN 1TSN 5TSN 3TSN 4CBS Sports Network USA</display-name>
-  </channel>
-  <channel id="dallaswingsvsminnesotalynx18:00utcbeinsportshd3francecbs">
-    <display-name>Dallas Wings vs Minnesota Lynx18:00 UTCBeIn Sports HD 3 FranceCBS</display-name>
-  </channel>
-  <channel id="sanfranciscogiantsvsatlantab01:05utcmlbnetworkmlb.tv">
-    <display-name>San Francisco Giants vs Atlanta B01:05 UTCMLB NetworkMLB.tv</display-name>
-  </channel>
-  <channel id="jordanvsargentina02:00utcazamsports2azamsports4bbconebeinsportshd2francerúvarenasport1sictvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegdr1ert2grfoxusjojšportnrk1noskysport3deskysport4desupersportpsltelemundotsn3tsn4tsn5tv4seyletv2arenasport1premiumrsrdsrsila2rtsdeuxchsport1iltsn1tycsportsargwinsportscobbciplayersporttv5ctsportitvxsport+tigosportsboliviartssportsupersportgrandstandcmoresport1fifubotvm4sporthunpo1peacockpremiumstar+northamericasupersport2hd(albania)">
-    <display-name>Jordan vs Argentina02:00 UTCAzam Sports 2Azam Sports 4BBC OneBeIn Sports HD 2 FranceRÚVArena Sport 1 SICTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegDR 1ERT 2 GRFOX USJOJ ŠportNRK 1 NOSky Sport 3 DESky Sport 4 DESuperSport PSLTelemundoTSN 3TSN 4TSN 5TV 4 SEYle TV2Arena Sport 1 Premium RSRDSRSI La 2RTS Deux CHSport 1 ILTSN 1TyC Sports ARGWin Sports COBBC iPlayerSport TV 5CT SportITVXSport +Tigo Sports BoliviaRTS SportSuperSport GrandstandC More Sport 1 FIFuboTVM4 Sport HUNPO 1Peacock PremiumStar+ North AmericaSuper Sport 2 HD (Albania)</display-name>
-  </channel>
-  <channel id="ottawablackjacksvsniagararive17:00utccebl+">
-    <display-name>Ottawa BlackJacks vs Niagara Rive17:00 UTCCEBL+</display-name>
-  </channel>
-  <channel id="chicagowhitesoxvskansascity18:10utcmlb.tv">
-    <display-name>Chicago White Sox vs Kansas City18:10 UTCMLB.tv</display-name>
-  </channel>
-  <channel id="sanfranciscogiantsvsatlantab20:05utcmlbnetworkmlb.tv">
-    <display-name>San Francisco Giants vs Atlanta B20:05 UTCMLB NetworkMLB.tv</display-name>
-  </channel>
-  <channel id="denmarkvolleyballvsfinlandvol15:00utcyletv2">
-    <display-name>Denmark Volleyball vs Finland Vol15:00 UTCYle TV2</display-name>
-  </channel>
-  <channel id="netherlandsvolleyballvsisrael11:00utcziggosport4">
-    <display-name>Netherlands Volleyball vs Israel11:00 UTCZiggo Sport 4</display-name>
-  </channel>
-  <channel id="sloveniavolleyballvsitalyvoll18:30utcpolsatsport3ssport2trarenasport3premiumrsmaxsport3bgssport+trsportklub1hrsportklub1sidaznitaly">
-    <display-name>Slovenia Volleyball vs Italy Voll18:30 UTCPolsat Sport 3S Sport 2 TRArena Sport 3 Premium RSMAX Sport 3 BGS Sport+ TRSport Klub 1 HRSport Klub 1 SIDAZN Italy</display-name>
-  </channel>
-  <channel id="canadavolleyballvsbrazilvolle14:30utcpolsatsport3ssport2trpolsatsportpremium1sportklub1hrsportklub1siastrograndstanddaznitaly">
-    <display-name>Canada Volleyball vs Brazil Volle14:30 UTCPolsat Sport 3S Sport 2 TRPolsat Sport Premium 1Sport Klub 1 HRSport Klub 1 SIAstro GrandstandDAZN Italy</display-name>
-  </channel>
-  <channel id="torontobluejaysvstexasranger17:37utcmlb.tvsportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasports">
-    <display-name>Toronto Blue Jays vs Texas Ranger17:37 UTCMLB.tvSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA Sports</display-name>
+  <channel id="brazilvsjapan17:00utcbbciplayerfoxusitvxrdsrte2tsn1tsn3tsn4utvniarenasport1premiumrscmoresport1fifubotvjojšportm4sporthumtv3finpo1orfeinspeacockpremiumrsila2rts2rsrtsdeuxchsbsvicelandskysport2chskysport2desporttv5srfzweisupersportgrandstandsupersportpsltelemundotigosportsboliviatv2playtv4setvslovenija2tvpsportazamsports2azamsports4supersportmáximo1m6arenasport1sidaznitalyrtssportsportbox.ruarenasport1bih">
+    <display-name>Brazil vs Japan17:00 UTCBBC iPlayerFOX USITVXRDSRTE2TSN 1TSN 3TSN 4UTV NIArena Sport 1 Premium RSC More Sport 1 FIFuboTVJOJ ŠportM4 Sport HUMTV3 FINPO 1ORF EinsPeacock PremiumRSI La 2RTS 2 RSRTS Deux CHSBS VicelandSky Sport 2 CHSky Sport 2 DESport TV 5SRF ZweiSuperSport GrandstandSuperSport PSLTelemundoTigo Sports BoliviaTV 2 PlayTV 4 SETV Slovenija 2TVP SportAzam Sports 2Azam Sports 4SuperSport Máximo 1M6Arena Sport 1 SIDAZN ItalyRTS SportSportbox.ruArena Sport 1 BiH</display-name>
   </channel>
 
 </tv>
