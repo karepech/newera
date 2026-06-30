@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="philadelphiaphilliesvspittsbur22:40utcmlb.tv">
-    <display-name>Philadelphia Phillies vs Pittsbur22:40 UTCMLB.tv</display-name>
+  <channel id="clevelandguardiansvstexasrang22:40utcbeinsportsenglish2qatarviaplayisviaplaydkviaplaynoviaplaysemlb.tv">
+    <display-name>Cleveland Guardians vs Texas Rang22:40 UTCBeIN Sports English 2 QatarViaplay ISViaplay DKViaplay NOViaplay SEMLB.tv</display-name>
   </channel>
-  <channel id="bostonredsoxvswashingtonnati23:10utcnesnmlb.tv">
-    <display-name>Boston Red Sox vs Washington Nati23:10 UTCNESNMLB.tv</display-name>
+  <channel id="francevssweden21:00utcarenasport1premiumrsbbciplayerctsportitvxnpo1rai1rdsrsila2rte2rts1rsrtsdeuxchrtv:športskysport2chskysport2desporttv5srfzweisupersportpsltelemundotsn1tsn3tsn4tsn5tv2playtv4setvslovenija2tvp1tvpsportutvniyletv2cmoresport1fidaznitalyfubotvm4sporthupeacockpremiumrtssportsportbox.rusupersportgrandstandm6arenasport1sifoxussupersport2hd(albania)tipikitv1azamsports2azamsports4">
+    <display-name>France vs Sweden21:00 UTCArena Sport 1 Premium RSBBC iPlayerCT SportITVXNPO 1Rai 1RDSRSI La 2RTE2RTS 1 RSRTS Deux CHRTV:ŠportSky Sport 2 CHSky Sport 2 DESport TV 5SRF ZweiSuperSport PSLTelemundoTSN 1TSN 3TSN 4TSN 5TV 2 PlayTV 4 SETV Slovenija 2TVP 1TVP SportUTV NIYle TV2C More Sport 1 FIDAZN ItalyFuboTVM4 Sport HUPeacock PremiumRTS SportSportbox.ruSuperSport GrandstandM6Arena Sport 1 SIFOX USSuper Sport 2 HD (Albania)TipikITV1Azam Sports 2Azam Sports 4</display-name>
   </channel>
-  <channel id="brazilvsjapan17:00utcbbciplayerfoxusitvxrdsrte2tsn1tsn3tsn4utvniarenasport1premiumrscmoresport1fifubotvjojšportm4sporthumtv3finpo1orfeinspeacockpremiumrsila2rts2rsrtsdeuxchsbsvicelandskysport2chskysport2desporttv5srfzweisupersportgrandstandsupersportpsltelemundotigosportsboliviatv2playtv4setvslovenija2tvpsportazamsports2azamsports4supersportmáximo1m6arenasport1sidaznitalyrtssportsportbox.ruarenasport1bih">
-    <display-name>Brazil vs Japan17:00 UTCBBC iPlayerFOX USITVXRDSRTE2TSN 1TSN 3TSN 4UTV NIArena Sport 1 Premium RSC More Sport 1 FIFuboTVJOJ ŠportM4 Sport HUMTV3 FINPO 1ORF EinsPeacock PremiumRSI La 2RTS 2 RSRTS Deux CHSBS VicelandSky Sport 2 CHSky Sport 2 DESport TV 5SRF ZweiSuperSport GrandstandSuperSport PSLTelemundoTigo Sports BoliviaTV 2 PlayTV 4 SETV Slovenija 2TVP SportAzam Sports 2Azam Sports 4SuperSport Máximo 1M6Arena Sport 1 SIDAZN ItalyRTS SportSportbox.ruArena Sport 1 BiH</display-name>
+  <channel id="bostonredsoxvswashingtonnati23:10utcmlb.tvnesn">
+    <display-name>Boston Red Sox vs Washington Nati23:10 UTCMLB.tvNESN</display-name>
+  </channel>
+  <channel id="kansascityroyalsvstampabayr23:40utcmlb.tv">
+    <display-name>Kansas City Royals vs Tampa Bay R23:40 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="coloradorockiesvsmiamimarlins00:40utcmlb.tv">
+    <display-name>Colorado Rockies vs Miami Marlins00:40 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="athleticsvslosangelesdodgers01:40utcnbcsportscaliforniajsports3peacockpremiummlb.tv">
+    <display-name>Athletics vs Los Angeles Dodgers01:40 UTCNBC Sports CaliforniaJ Sports 3Peacock PremiumMLB.tv</display-name>
   </channel>
 
 </tv>
