@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="clevelandguardiansvstexasrang22:40utcbeinsportsenglish2qatarviaplayisviaplaydkviaplaynoviaplaysemlb.tv">
-    <display-name>Cleveland Guardians vs Texas Rang22:40 UTCBeIN Sports English 2 QatarViaplay ISViaplay DKViaplay NOViaplay SEMLB.tv</display-name>
+  <channel id="newyorkyankeesvsdetroittiger17:35utcbeinsportsmax4sportdigital1+yesmlb.tvpeacockpremium">
+    <display-name>New York Yankees vs Detroit Tiger17:35 UTCBeIn Sports Max 4SportDigital1+YESMLB.tvPeacock Premium</display-name>
   </channel>
-  <channel id="francevssweden21:00utcarenasport1premiumrsbbciplayerctsportitvxnpo1rai1rdsrsila2rte2rts1rsrtsdeuxchrtv:športskysport2chskysport2desporttv5srfzweisupersportpsltelemundotsn1tsn3tsn4tsn5tv2playtv4setvslovenija2tvp1tvpsportutvniyletv2cmoresport1fidaznitalyfubotvm4sporthupeacockpremiumrtssportsportbox.rusupersportgrandstandm6arenasport1sifoxussupersport2hd(albania)tipikitv1azamsports2azamsports4">
-    <display-name>France vs Sweden21:00 UTCArena Sport 1 Premium RSBBC iPlayerCT SportITVXNPO 1Rai 1RDSRSI La 2RTE2RTS 1 RSRTS Deux CHRTV:ŠportSky Sport 2 CHSky Sport 2 DESport TV 5SRF ZweiSuperSport PSLTelemundoTSN 1TSN 3TSN 4TSN 5TV 2 PlayTV 4 SETV Slovenija 2TVP 1TVP SportUTV NIYle TV2C More Sport 1 FIDAZN ItalyFuboTVM4 Sport HUPeacock PremiumRTS SportSportbox.ruSuperSport GrandstandM6Arena Sport 1 SIFOX USSuper Sport 2 HD (Albania)TipikITV1Azam Sports 2Azam Sports 4</display-name>
+  <channel id="houstonastrosvsminnesotatwins00:10utcattheracesmlb.tv">
+    <display-name>Houston Astros vs Minnesota Twins00:10 UTCAt The RacesMLB.tv</display-name>
   </channel>
-  <channel id="bostonredsoxvswashingtonnati23:10utcmlb.tvnesn">
-    <display-name>Boston Red Sox vs Washington Nati23:10 UTCMLB.tvNESN</display-name>
+  <channel id="torontobluejaysvsnewyorkmet19:07utctvasportsespn3netherlandsespnsouthafricafoxsports3argentinamlb.tvsportsneteastsportsnetontariosportsnetpacificsportsnetwest">
+    <display-name>Toronto Blue Jays vs New York Met19:07 UTCTVA SportsESPN 3 NetherlandsESPN South AfricaFOX Sports 3 ArgentinaMLB.tvSportsNet EastSportsNet OntarioSportsNet PacificSportsNet West</display-name>
   </channel>
-  <channel id="kansascityroyalsvstampabayr23:40utcmlb.tv">
-    <display-name>Kansas City Royals vs Tampa Bay R23:40 UTCMLB.tv</display-name>
+  <channel id="belgiumvssenegal20:00utcarenasport1premiumrscmoresport1fictvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegert2grfubotvjojšportm4sporthumtv3finpo1orfeinspeacockpremiumrai1rdsrsila2rte2rtsdeuxchrtssportskysport2chskysport2desporttv5sportbox.rusrfzweisupersportgrandstandsupersportpsltelemundotsn1tsn3tsn4tudnmexicotv2playtv4setvslovenija2tvp1tvpsportutvniarenasport1sidaznitalyfoxsports1usitv1itvazamsports2azamsports4bbciplayerbeinsportshd1francedasersteitvxm6rtp1rts1rssport1ilstvsupersport2hd(albania)tigosportsbolivia">
+    <display-name>Belgium vs Senegal20:00 UTCArena Sport 1 Premium RSC More Sport 1 FICTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegERT 2 GRFuboTVJOJ ŠportM4 Sport HUMTV3 FINPO 1ORF EinsPeacock PremiumRai 1RDSRSI La 2RTE2RTS Deux CHRTS SportSky Sport 2 CHSky Sport 2 DESport TV 5Sportbox.ruSRF ZweiSuperSport GrandstandSuperSport PSLTelemundoTSN 1TSN 3TSN 4TUDN MexicoTV 2 PlayTV 4 SETV Slovenija 2TVP 1TVP SportUTV NIArena Sport 1 SIDAZN ItalyFox Sports 1 USITV1ITVAzam Sports 2Azam Sports 4BBC iPlayerBeIn Sports HD 1 FranceDas ErsteITVXM6RTP 1RTS 1 RSSport 1 ILSTVSuper Sport 2 HD (Albania)Tigo Sports Bolivia</display-name>
   </channel>
-  <channel id="coloradorockiesvsmiamimarlins00:40utcmlb.tv">
-    <display-name>Colorado Rockies vs Miami Marlins00:40 UTCMLB.tv</display-name>
+  <channel id="southlandsharksvscanterburyra07:00utcskysport2nzespn+">
+    <display-name>Southland Sharks vs Canterbury Ra07:00 UTCSky Sport 2 NZESPN +</display-name>
   </channel>
-  <channel id="athleticsvslosangelesdodgers01:40utcnbcsportscaliforniajsports3peacockpremiummlb.tv">
-    <display-name>Athletics vs Los Angeles Dodgers01:40 UTCNBC Sports CaliforniaJ Sports 3Peacock PremiumMLB.tv</display-name>
+  <channel id="atlantabravesvsst.louiscardi23:15utcrds2viaplayisviaplaydkviaplaynoviaplaysemlb.tv">
+    <display-name>Atlanta Braves vs St. Louis Cardi23:15 UTCRDS 2Viaplay ISViaplay DKViaplay NOViaplay SEMLB.tv</display-name>
+  </channel>
+  <channel id="seattlemarinersvslosangelesa01:40utcbeinsportsmax4mlbnetworkviaplayisviaplaydkviaplaynoviaplaysemlb.tv">
+    <display-name>Seattle Mariners vs Los Angeles A01:40 UTCBeIn Sports Max 4MLB NetworkViaplay ISViaplay DKViaplay NOViaplay SEMLB.tv</display-name>
+  </channel>
+  <channel id="baltimoreoriolesvschicagowhit16:35utcespnsouthafricaespn3netherlandsmlb.tv">
+    <display-name>Baltimore Orioles vs Chicago Whit16:35 UTCESPN South AfricaESPN 3 NetherlandsMLB.tv</display-name>
   </channel>
 
 </tv>
