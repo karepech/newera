@@ -1,46 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="kansascityroyalsvstampabayr23:40utctvasportsmlb.tv">
-    <display-name>Kansas City Royals vs Tampa Bay R23:40 UTCTVA SportsMLB.tv</display-name>
+  <channel id="britishgrandprixpractice111:30utcappletv+skysportsf1">
+    <display-name>British Grand Prix Practice 111:30 UTCApple TV+Sky Sports F1</display-name>
   </channel>
-  <channel id="ukrainebasketballvsgeorgia15:30utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Ukraine Basketball vs Georgia15:30 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="penrithpanthersvssouthsydney10:00utcskysportsactionskysport1nzkayosportspremiersportsmalaysiabeinsportsmax5">
+    <display-name>Penrith Panthers vs South Sydney10:00 UTCSky Sports ActionSky Sport 1 NZKayo SportsPremier Sports MalaysiaBeIn Sports Max 5</display-name>
   </channel>
-  <channel id="losangelesknightridersvswash01:30utcespnsouthafricaskysportscricketskysportsmaineventskysport1nzstarsports2ind">
-    <display-name>Los Angeles Knight Riders vs Wash01:30 UTCESPN South AfricaSky Sports CricketSky Sports Main EventSky Sport 1 NZStar Sports 2 IND</display-name>
+  <channel id="kongsvingervssogndal16:00utctv2play">
+    <display-name>Kongsvinger vs Sogndal16:00 UTCTV 2 Play</display-name>
   </channel>
-  <channel id="portugalbasketballvsmontenegro18:00utcarenasport2rsarenasport3hrarenasport3sidaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznusrtp2tvcg2daznitaly">
-    <display-name>Portugal Basketball vs Montenegro18:00 UTCArena Sport 2 RSArena Sport 3 HRArena Sport 3 SIDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN USRTP 2TVCG 2DAZN Italy</display-name>
+  <channel id="cyprusbasketballvscroatiabask17:00utcarenasport2siarenasport1hrdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
+    <display-name>Cyprus Basketball vs Croatia Bask17:00 UTCArena Sport 2 SIArena Sport 1 HRDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
   </channel>
-  <channel id="bosnia-herzegovinabasketballvs18:00utcarenasport2sidaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznusarenasport1hrarenasport1rsdaznitalyssporttrtrtsportr">
-    <display-name>Bosnia-Herzegovina Basketball vs18:00 UTCArena Sport 2 SIDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN USArena Sport 1 HRArena Sport 1 RSDAZN ItalyS Sport TRTRT Spor TR</display-name>
+  <channel id="derrycityvswaterford18:45utcloitviebbciplayer">
+    <display-name>Derry City vs Waterford18:45 UTCLOI TV IEBBC iPlayer</display-name>
   </channel>
-  <channel id="philadelphiaphilliesvspittsbur16:35utcespn3netherlandso2tvfotbalviaplayisviaplaydkviaplaynobeinsportsmax5viaplaysemlb.tv">
-    <display-name>Philadelphia Phillies vs Pittsbur16:35 UTCESPN 3 NetherlandsO2 TV FotbalViaplay ISViaplay DKViaplay NOBeIn Sports Max 5Viaplay SEMLB.tv</display-name>
+  <channel id="seattlemarinersvslosangelesa01:40utcmlb.tv">
+    <display-name>Seattle Mariners vs Los Angeles A01:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="spainbasketballvsdenmarkbaske17:00utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznsloveniadaznspaindaznturkeydaznusmovistar#vamos">
-    <display-name>Spain Basketball vs Denmark Baske17:00 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SloveniaDAZN SpainDAZN TurkeyDAZN USMovistar #Vamos</display-name>
+  <channel id="washingtonnationalsvspittsburg22:45utcmlb.tv">
+    <display-name>Washington Nationals vs Pittsburg22:45 UTCMLB.tv</display-name>
   </channel>
-  <channel id="spainvsaustria19:00utcctsportert2grnpo1peacockpremiumrdsrsila2rte2rts2rsrtsdeuxchrtssportrtv:športskysport2chskysport2desporttv5sportbox.rusrfzweisupersportgrandstandsupersportpsltsn1tsn3tsn4tudnmexicotv2playtvslovenija2tvp1tvpsportutvniyletv2arenasport1sifubotvm4sporthufoxusbbconearenasport1premiumrsarenasport1bihbbciplayerbeinsportshd1francedasersteitvxla1m6rai1sport1ilsupersport2hd(albania)telemundoteleventigosportsboliviaazamsports2azamsports4">
-    <display-name>Spain vs Austria19:00 UTCCT SportERT 2 GRNPO 1Peacock PremiumRDSRSI La 2RTE2RTS 2 RSRTS Deux CHRTS SportRTV:ŠportSky Sport 2 CHSky Sport 2 DESport TV 5Sportbox.ruSRF ZweiSuperSport GrandstandSuperSport PSLTSN 1TSN 3TSN 4TUDN MexicoTV 2 PlayTV Slovenija 2TVP 1TVP SportUTV NIYle TV2Arena Sport 1 SIFuboTVM4 Sport HUFOX USBBC OneArena Sport 1 Premium RSArena Sport 1 BiHBBC iPlayerBeIn Sports HD 1 FranceDas ErsteITVXLa 1M6Rai 1Sport 1 ILSuper Sport 2 HD (Albania)TelemundoTelevenTigo Sports BoliviaAzam Sports 2Azam Sports 4</display-name>
+  <channel id="texasrangersvsdetroittigers00:05utcfoxsports3argentinamlb.tv">
+    <display-name>Texas Rangers vs Detroit Tigers00:05 UTCFOX Sports 3 ArgentinaMLB.tv</display-name>
   </channel>
-  <channel id="portugalvscroatia23:00utccmoresport1fictsportctvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegdr1ert2grnrk1nopeacockpremiumrdsrsila2rte2rts2rsrtssportrúvskysport2chskysport2desporttv1sporttv5sportbox.rusrfzweisupersportgrandstandsupersportpsltsn1tsn3tsn4tv4setvp1tvpsportutvniyletv2arenasport1sifubotvm4sporthunpo1rtsdeuxcharenasport1premiumrsfoxustelemundotigosportsboliviabbconebbciplayerbeinsportshd1franceitvxsupersport2hd(albania)televentvcg2tycsportsargazamsports2azamsports4">
-    <display-name>Portugal vs Croatia23:00 UTCC More Sport 1 FICT SportCTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegDR 1ERT 2 GRNRK 1 NOPeacock PremiumRDSRSI La 2RTE2RTS 2 RSRTS SportRÚVSky Sport 2 CHSky Sport 2 DESport TV 1Sport TV 5Sportbox.ruSRF ZweiSuperSport GrandstandSuperSport PSLTSN 1TSN 3TSN 4TV 4 SETVP 1TVP SportUTV NIYle TV2Arena Sport 1 SIFuboTVM4 Sport HUNPO 1RTS Deux CHArena Sport 1 Premium RSFOX USTelemundoTigo Sports BoliviaBBC OneBBC iPlayerBeIn Sports HD 1 FranceITVXSuper Sport 2 HD (Albania)TelevenTVCG 2TyC Sports ARGAzam Sports 2Azam Sports 4</display-name>
+  <channel id="britishgrandprixsprintqualify15:30utcappletv+skysportsf1">
+    <display-name>British Grand Prix Sprint Qualify15:30 UTCApple TV+Sky Sports F1</display-name>
   </channel>
-  <channel id="houstonastrosvsminnesotatwins00:10utcmlb.tv">
-    <display-name>Houston Astros vs Minnesota Twins00:10 UTCMLB.tv</display-name>
+  <channel id="tsghawksvsuni-presidentlions10:35utccpbltv">
+    <display-name>TSG Hawks vs Uni-President Lions10:35 UTCCPBL TV</display-name>
   </channel>
-  <channel id="syriabasketballvsiraqbasketba13:30utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Syria Basketball vs Iraq Basketba13:30 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="cincinnatiredsvsbaltimoreorio23:10utcmlb.tvmasn">
+    <display-name>Cincinnati Reds vs Baltimore Orio23:10 UTCMLB.tvMASN</display-name>
   </channel>
-  <channel id="madagascarbasketballvsd.r.con15:00utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Madagascar Basketball vs D.R. Con15:00 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="newzealandbasketballvsphilipp07:00utcespnaustraliaespnnewzealandkayosportsdaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
+    <display-name>New Zealand Basketball vs Philipp07:00 UTCESPN AustraliaESPN New ZealandKayo SportsDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
   </channel>
-  <channel id="guineabasketballvsrwandabaske09:00utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Guinea Basketball vs Rwanda Baske09:00 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="rwandabasketballvstunisiabask18:00utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznserbiadaznsloveniadaznspaindaznturkeydaznus">
+    <display-name>Rwanda Basketball vs Tunisia Bask18:00 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
   </channel>
-  <channel id="icelandbasketballvsitalybaske19:45utcdaznaustraliadazncanadadazncroatiadaznczechiadazngreecedaznnewzealanddaznpolanddaznserbiadaznsloveniadaznturkeydaznusdaznbelgiumdaznbrasildaznportugaldaznspain">
-    <display-name>Iceland Basketball vs Italy Baske19:45 UTCDAZN AustraliaDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN New ZealandDAZN PolandDAZN SerbiaDAZN SloveniaDAZN TurkeyDAZN USDAZN BelgiumDAZN BrasilDAZN PortugalDAZN Spain</display-name>
+  <channel id="fhhafnarfjordurvsstjarnan19:15utconefootball">
+    <display-name>FH Hafnarfjordur vs Stjarnan19:15 UTCOneFootball</display-name>
+  </channel>
+  <channel id="colombiabasketballvschilebask23:30utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznnewzealanddaznpolanddaznserbiadaznsloveniadaznturkeydaznus">
+    <display-name>Colombia Basketball vs Chile Bask23:30 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN New ZealandDAZN PolandDAZN SerbiaDAZN SloveniaDAZN TurkeyDAZN US</display-name>
   </channel>
 
 </tv>
