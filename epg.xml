@@ -1,28 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="australiabasketballvsphilippin10:30utcespnaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznusespnnewzealandkayosports">
-    <display-name>Australia Basketball vs Philippin10:30 UTCESPN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN USESPN New ZealandKayo Sports</display-name>
+  <channel id="ararat-armeniavsrigafc16:00utcfubotvespn+">
+    <display-name>Ararat-Armenia vs Riga FC16:00 UTCFuboTVESPN +</display-name>
   </channel>
-  <channel id="serbiabasketballvsbosnia-herze18:00utcarenasport2simovistar#vamosmagentatvdearenasport2premiumrsssport+trarenasport2hrdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Serbia Basketball vs Bosnia-Herze18:00 UTCArena Sport 2 SIMovistar #VamosMagentaTV DEArena Sport 2 Premium RSS Sport+ TRArena Sport 2 HRDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="losangelesdodgersvscolorador02:10utcjsports2mlb.tv">
+    <display-name>Los Angeles Dodgers vs Colorado R02:10 UTCJ Sports 2MLB.tv</display-name>
   </channel>
-  <channel id="kansascityroyalsvsphiladelphi18:10utcespn3netherlandsespnsouthafricatntsports1viaplayismlb.tvviaplaydkviaplaynoviaplayse">
-    <display-name>Kansas City Royals vs Philadelphi18:10 UTCESPN 3 NetherlandsESPN South AfricaTNT Sports 1Viaplay ISMLB.tvViaplay DKViaplay NOViaplay SE</display-name>
+  <channel id="florianavsshamrockrovers17:30utcveikkaustv">
+    <display-name>Floriana vs Shamrock Rovers17:30 UTCVeikkaus TV</display-name>
   </channel>
-  <channel id="turkeybasketballvsswitzerland16:00utcssporttrtrtsportrrsila2ssport+trdaznaustraliadaznbelgiumdaznbrasildazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Turkey Basketball vs Switzerland16:00 UTCS Sport TRTRT Spor TRRSI La 2S Sport+ TRDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="detroittigersvsathletics22:40utcnbcsportscaliforniamlb.tv">
+    <display-name>Detroit Tigers vs Athletics22:40 UTCNBC Sports CaliforniaMLB.tv</display-name>
   </channel>
-  <channel id="latviabasketballvsaustriabask16:30utcgo3sportopeneedaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Latvia Basketball vs Austria Bask16:30 UTCGo3 Sport Open EEDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="pittsburghpiratesvsatlantabra22:40utcmlb.tvviaplaydkviaplayisviaplaynoviaplayse">
+    <display-name>Pittsburgh Pirates vs Atlanta Bra22:40 UTCMLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
   </channel>
-  <channel id="goldenstatewarriorsvsmiamihe23:30utcnbcsportswashington">
-    <display-name>Golden State Warriors vs Miami He23:30 UTCNBC Sports Washington</display-name>
+  <channel id="sanfranciscogiantsvstorontob01:45utcsportsneteastsportsnetontariosportsnetpacificsportsnetwestmlb.tv">
+    <display-name>San Francisco Giants vs Toronto B01:45 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestMLB.tv</display-name>
   </channel>
-  <channel id="washingtonnationalsvshoustona22:45utcmlbnetworkmlb.tvattheraces">
-    <display-name>Washington Nationals vs Houston A22:45 UTCMLB NetworkMLB.tvAt The Races</display-name>
+  <channel id="st.louiscardinalsvsmilwaukee23:45utcsportdigital1+skysportmaxarenasport1hrarenasport2rsviaplaydkviaplayisviaplaynoviaplaysemlb.tvo2tvfotbal">
+    <display-name>St. Louis Cardinals vs Milwaukee23:45 UTCSportDigital1+Sky Sport MaxArena Sport 1 HRArena Sport 2 RSViaplay DKViaplay ISViaplay NOViaplay SEMLB.tvO2 TV Fotbal</display-name>
   </channel>
-  <channel id="keflavíkvsframreykjavík19:15utconefootball">
-    <display-name>Keflavík vs Fram Reykjavík19:15 UTCOneFootball</display-name>
+  <channel id="víkingurreykjavíkvsgyőrieto19:00utcdunaworld">
+    <display-name>Víkingur Reykjavík vs Győri ETO19:00 UTCDuna World</display-name>
+  </channel>
+  <channel id="cincinnatiredsvsphiladelphiap23:10utcmlb.tv">
+    <display-name>Cincinnati Reds vs Philadelphia P23:10 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="raw#172800:00utcnetflix">
+    <display-name>RAW #172800:00 UTCNetflix</display-name>
   </channel>
 
 </tv>
