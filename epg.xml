@@ -1,34 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="ararat-armeniavsrigafc16:00utcfubotvespn+">
-    <display-name>Ararat-Armenia vs Riga FC16:00 UTCFuboTVESPN +</display-name>
+  <channel id="chinavolleyballwomenvscanada12:30utcarenasport2premiumrssportklub3sisportklub6hrsportklub6rsssport+tr">
+    <display-name>China Volleyball Women vs Canada12:30 UTCArena Sport 2 Premium RSSport Klub 3 SISport Klub 6 HRSport Klub 6 RSS Sport+ TR</display-name>
   </channel>
-  <channel id="losangelesdodgersvscolorador02:10utcjsports2mlb.tv">
-    <display-name>Los Angeles Dodgers vs Colorado R02:10 UTCJ Sports 2MLB.tv</display-name>
+  <channel id="chicagowhitesoxvsbostonreds23:40utcmlb.tvnesn">
+    <display-name>Chicago White Sox vs Boston Red S23:40 UTCMLB.tvNESN</display-name>
   </channel>
-  <channel id="florianavsshamrockrovers17:30utcveikkaustv">
-    <display-name>Floriana vs Shamrock Rovers17:30 UTCVeikkaus TV</display-name>
+  <channel id="serbiavolleyballwomenvsbulgar18:00utcjojšportrtv:športarenasport1premiumrssupersport1hd(albania)ssport2trssport+trsportklub3hrsportklub3rssportklub3simaxsport2bg">
+    <display-name>Serbia Volleyball Women vs Bulgar18:00 UTCJOJ ŠportRTV:ŠportArena Sport 1 Premium RSSuper Sport 1 HD (Albania)S Sport 2 TRS Sport+ TRSport Klub 3 HRSport Klub 3 RSSport Klub 3 SIMAX Sport 2 BG</display-name>
   </channel>
-  <channel id="detroittigersvsathletics22:40utcnbcsportscaliforniamlb.tv">
-    <display-name>Detroit Tigers vs Athletics22:40 UTCNBC Sports CaliforniaMLB.tv</display-name>
+  <channel id="pontepretavscriciúma23:00utcespnbrasil">
+    <display-name>Ponte Preta vs Criciúma23:00 UTCESPN Brasil</display-name>
   </channel>
-  <channel id="pittsburghpiratesvsatlantabra22:40utcmlb.tvviaplaydkviaplayisviaplaynoviaplayse">
-    <display-name>Pittsburgh Pirates vs Atlanta Bra22:40 UTCMLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
+  <channel id="pittsburghpiratesvsatlantabra22:40utcrdstsn5mlb.tv">
+    <display-name>Pittsburgh Pirates vs Atlanta Bra22:40 UTCRDSTSN 5MLB.tv</display-name>
   </channel>
-  <channel id="sanfranciscogiantsvstorontob01:45utcsportsneteastsportsnetontariosportsnetpacificsportsnetwestmlb.tv">
-    <display-name>San Francisco Giants vs Toronto B01:45 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestMLB.tv</display-name>
+  <channel id="finlandvolleyballvsnetherlands15:15utcsporttv1ziggosport3arenasport2rs">
+    <display-name>Finland Volleyball vs Netherlands15:15 UTCSport TV 1Ziggo Sport 3Arena Sport 2 RS</display-name>
   </channel>
-  <channel id="st.louiscardinalsvsmilwaukee23:45utcsportdigital1+skysportmaxarenasport1hrarenasport2rsviaplaydkviaplayisviaplaynoviaplaysemlb.tvo2tvfotbal">
-    <display-name>St. Louis Cardinals vs Milwaukee23:45 UTCSportDigital1+Sky Sport MaxArena Sport 1 HRArena Sport 2 RSViaplay DKViaplay ISViaplay NOViaplay SEMLB.tvO2 TV Fotbal</display-name>
+  <channel id="connecticutsunvsminnesotalynx23:30utcskysportsactionskysports+skysportnbausanetwork">
+    <display-name>Connecticut Sun vs Minnesota Lynx23:30 UTCSky Sports ActionSky Sports+Sky Sport NBAUSA Network</display-name>
   </channel>
-  <channel id="víkingurreykjavíkvsgyőrieto19:00utcdunaworld">
-    <display-name>Víkingur Reykjavík vs Győri ETO19:00 UTCDuna World</display-name>
+  <channel id="belgiumvolleyballwomenvsdomin03:30utcpolsatsport2sportklub3sisportklub6hrsportklub6rs">
+    <display-name>Belgium Volleyball Women vs Domin03:30 UTCPolsat Sport 2Sport Klub 3 SISport Klub 6 HRSport Klub 6 RS</display-name>
   </channel>
-  <channel id="cincinnatiredsvsphiladelphiap23:10utcmlb.tv">
-    <display-name>Cincinnati Reds vs Philadelphia P23:10 UTCMLB.tv</display-name>
+  <channel id="detroittigersvsathletics22:40utcmlb.tvnbcsportscalifornia">
+    <display-name>Detroit Tigers vs Athletics22:40 UTCMLB.tvNBC Sports California</display-name>
   </channel>
-  <channel id="raw#172800:00utcnetflix">
-    <display-name>RAW #172800:00 UTCNetflix</display-name>
+  <channel id="uni-presidentlionsvsctbcbroth10:35utccpbltv">
+    <display-name>Uni-President Lions vs CTBC Broth10:35 UTCCPBL TV</display-name>
+  </channel>
+  <channel id="queenslandmaroonsvsnewsouthw10:05utcchannelnineperthbeinsportshd3franceskysportsactionskysport1nzespnsouthafricafoxsports2usskysportsmaineventsportdigital1+">
+    <display-name>Queensland Maroons vs New South W10:05 UTCChannel Nine PerthBeIn Sports HD 3 FranceSky Sports ActionSky Sport 1 NZESPN South AfricaFox Sports 2 USSky Sports Main EventSportDigital1+</display-name>
+  </channel>
+  <channel id="texasrangersvslosangelesange00:05utcmlb.tv">
+    <display-name>Texas Rangers vs Los Angeles Ange00:05 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="sanfranciscogiantsvstorontob01:45utcespn3netherlandstvasportssportdigital1+tntsports1espnsouthafricapeacockpremiumviaplaydkviaplayisviaplaynoviaplaysemlb.tvo2tvfotbalsportsneteastsportsnetontariosportsnetpacificsportsnetwest">
+    <display-name>San Francisco Giants vs Toronto B01:45 UTCESPN 3 NetherlandsTVA SportsSportDigital1+TNT Sports 1ESPN South AfricaPeacock PremiumViaplay DKViaplay ISViaplay NOViaplay SEMLB.tvO2 TV FotbalSportsNet EastSportsNet OntarioSportsNet PacificSportsNet West</display-name>
   </channel>
 
 </tv>
