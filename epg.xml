@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="nagoyabashoday207:00utcnhkworldabematv">
-    <display-name>Nagoya Basho Day 207:00 UTCNHK WorldAbema TV</display-name>
+  <channel id="englandcricketvsindiacricket10:00utcskysportsmaineventfoxcricketskysport1nzskysportscricketsupersportcricketsupersportgrandstandkayosports">
+    <display-name>England Cricket vs India Cricket10:00 UTCSky Sports Main EventFOX CricketSky Sport 1 NZSky Sports CricketSuperSport CricketSuperSport GrandstandKayo Sports</display-name>
   </channel>
-  <channel id="indianapacersvstorontoraptors20:30utcespn3netherlandsespn2newzealandespn2usskysportnbaskysportsactionespn3paraguayespn3guatemalaespn3hondurasdaznbelgiumdaznspainkayosports">
-    <display-name>Indiana Pacers vs Toronto Raptors20:30 UTCESPN 3 NetherlandsESPN 2 New ZealandESPN 2 USSky Sport NBASky Sports ActionESPN 3 ParaguayESPN 3 GuatemalaESPN 3 HondurasDAZN BelgiumDAZN SpainKayo Sports</display-name>
+  <channel id="utahjazzvschicagobulls01:00utcespn3netherlandsespn2newzealandespnusespn3guatemalaespn3honduraskayosports">
+    <display-name>Utah Jazz vs Chicago Bulls01:00 UTCESPN 3 NetherlandsESPN 2 New ZealandESPN USESPN 3 GuatemalaESPN 3 HondurasKayo Sports</display-name>
   </channel>
-  <channel id="lasvegasacesvsindianafever01:00utcnbcskysportsactionskysports+wbaltvwvtm13wwbtskysportnbapeacockpremium">
-    <display-name>Las Vegas Aces vs Indiana Fever01:00 UTCNBCSky Sports ActionSky Sports+WBAL TVWVTM 13WWBTSky Sport NBAPeacock Premium</display-name>
+  <channel id="levskisofiavsboracbanjaluka17:30utcdiemasportbg">
+    <display-name>Levski Sofia vs Borac Banja Luka17:30 UTCDiema Sport BG</display-name>
+  </channel>
+  <channel id="bramptonhoneybadgersvsniagara16:30utccebl+">
+    <display-name>Brampton Honey Badgers vs Niagara16:30 UTCCEBL+</display-name>
+  </channel>
+  <channel id="houstonrocketsvsphiladelphia720:00utcnbcsportsphiladelphia+attheraces">
+    <display-name>Houston Rockets vs Philadelphia 720:00 UTCNBC Sports Philadelphia+At The Races</display-name>
   </channel>
 
 </tv>
