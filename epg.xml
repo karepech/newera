@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="englandcricketvsindiacricket10:00utcskysportsmaineventfoxcricketskysport1nzskysportscricketsupersportcricketsupersportgrandstandkayosports">
-    <display-name>England Cricket vs India Cricket10:00 UTCSky Sports Main EventFOX CricketSky Sport 1 NZSky Sports CricketSuperSport CricketSuperSport GrandstandKayo Sports</display-name>
+  <channel id="northantssteelbacksvsglouceste16:00utcskysportscricketskysportsmainevent">
+    <display-name>Northants Steelbacks vs Glouceste16:00 UTCSky Sports CricketSky Sports Main Event</display-name>
   </channel>
-  <channel id="utahjazzvschicagobulls01:00utcespn3netherlandsespn2newzealandespnusespn3guatemalaespn3honduraskayosports">
-    <display-name>Utah Jazz vs Chicago Bulls01:00 UTCESPN 3 NetherlandsESPN 2 New ZealandESPN USESPN 3 GuatemalaESPN 3 HondurasKayo Sports</display-name>
+  <channel id="lexingtonscvsnewmexicounited23:00utcespn+fubotvstar+northamerica">
+    <display-name>Lexington SC vs New Mexico United23:00 UTCESPN +FuboTVStar+ North America</display-name>
   </channel>
-  <channel id="levskisofiavsboracbanjaluka17:30utcdiemasportbg">
-    <display-name>Levski Sofia vs Borac Banja Luka17:30 UTCDiema Sport BG</display-name>
+  <channel id="serbiavolleyballvsturkeyvolle18:00utcpolsatsport2arenasport2premiumrsssporttrssport+trsportklub1sisportklub3hrsportklub3rstrtsportrsupersport3hd(albania)">
+    <display-name>Serbia Volleyball vs Turkey Volle18:00 UTCPolsat Sport 2Arena Sport 2 Premium RSS Sport TRS Sport+ TRSport Klub 1 SISport Klub 3 HRSport Klub 3 RSTRT Spor TRSuper Sport 3 HD (Albania)</display-name>
   </channel>
-  <channel id="bramptonhoneybadgersvsniagara16:30utccebl+">
-    <display-name>Brampton Honey Badgers vs Niagara16:30 UTCCEBL+</display-name>
+  <channel id="nagoyabashoday407:00utcnhkworldabematv">
+    <display-name>Nagoya Basho Day 407:00 UTCNHK WorldAbema TV</display-name>
   </channel>
-  <channel id="houstonrocketsvsphiladelphia720:00utcnbcsportsphiladelphia+attheraces">
-    <display-name>Houston Rockets vs Philadelphia 720:00 UTCNBC Sports Philadelphia+At The Races</display-name>
+  <channel id="canadavolleyballvsargentinavo03:00utcarenasport2premiumrspolsatsportsportklub1hrsportklub1si">
+    <display-name>Canada Volleyball vs Argentina Vo03:00 UTCArena Sport 2 Premium RSPolsat SportSport Klub 1 HRSport Klub 1 SI</display-name>
+  </channel>
+  <channel id="tsghawksvsfubonguardians10:35utccpbltv">
+    <display-name>TSG Hawks vs Fubon Guardians10:35 UTCCPBL TV</display-name>
+  </channel>
+  <channel id="francevolleyballvsbrazilvolle21:00utcarenasport2premiumrspolsatsportmaxsport1bgssport2trssport+trsportklub1hrsportklub1sidaznitaly">
+    <display-name>France Volleyball vs Brazil Volle21:00 UTCArena Sport 2 Premium RSPolsat SportMAX Sport 1 BGS Sport 2 TRS Sport+ TRSport Klub 1 HRSport Klub 1 SIDAZN Italy</display-name>
+  </channel>
+  <channel id="germanyvolleyballvssloveniavo11:00utcarenasport3premiumrspolsatsport3ssport2trssport+trsportklub1sisportklub3hrsportklub3rs">
+    <display-name>Germany Volleyball vs Slovenia Vo11:00 UTCArena Sport 3 Premium RSPolsat Sport 3S Sport 2 TRS Sport+ TRSport Klub 1 SISport Klub 3 HRSport Klub 3 RS</display-name>
   </channel>
 
 </tv>
