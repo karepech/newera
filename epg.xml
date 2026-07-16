@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="northantssteelbacksvsglouceste16:00utcskysportscricketskysportsmainevent">
-    <display-name>Northants Steelbacks vs Glouceste16:00 UTCSky Sports CricketSky Sports Main Event</display-name>
+  <channel id="saskatoonmambavswinnipegseab01:30utccebl+">
+    <display-name>Saskatoon Mamba vs Winnipeg Sea B01:30 UTCCEBL+</display-name>
   </channel>
-  <channel id="lexingtonscvsnewmexicounited23:00utcespn+fubotvstar+northamerica">
-    <display-name>Lexington SC vs New Mexico United23:00 UTCESPN +FuboTVStar+ North America</display-name>
+  <channel id="philadelphiaphilliesvsnewyork23:10utcespn2netherlandsespndeportestsn1tvasportsespnustntsports2mlb.tvviaplaydkviaplayisviaplaynoviaplaysebeinsportsmax6espn3guatemala">
+    <display-name>Philadelphia Phillies vs New York23:10 UTCESPN 2 NetherlandsESPN DeportesTSN 1TVA SportsESPN USTNT Sports 2MLB.tvViaplay DKViaplay ISViaplay NOViaplay SEBeIn Sports Max 6ESPN 3 Guatemala</display-name>
   </channel>
-  <channel id="serbiavolleyballvsturkeyvolle18:00utcpolsatsport2arenasport2premiumrsssporttrssport+trsportklub1sisportklub3hrsportklub3rstrtsportrsupersport3hd(albania)">
-    <display-name>Serbia Volleyball vs Turkey Volle18:00 UTCPolsat Sport 2Arena Sport 2 Premium RSS Sport TRS Sport+ TRSport Klub 1 SISport Klub 3 HRSport Klub 3 RSTRT Spor TRSuper Sport 3 HD (Albania)</display-name>
+  <channel id="penrithpanthersvsbrisbanebron09:50utcbeinsportshd3francefoxsports2usskysport1nzfoxleaguebeinsportshd2francekayosports">
+    <display-name>Penrith Panthers vs Brisbane Bron09:50 UTCBeIn Sports HD 3 FranceFox Sports 2 USSky Sport 1 NZFOX LeagueBeIn Sports HD 2 FranceKayo Sports</display-name>
   </channel>
-  <channel id="nagoyabashoday407:00utcnhkworldabematv">
-    <display-name>Nagoya Basho Day 407:00 UTCNHK WorldAbema TV</display-name>
+  <channel id="englandcricketvsindiacricket12:00utcskysport3nzfoxcricketskysportscricketsupersportcricketsupersportgrandstandkayosports">
+    <display-name>England Cricket vs India Cricket12:00 UTCSky Sport 3 NZFOX CricketSky Sports CricketSuperSport CricketSuperSport GrandstandKayo Sports</display-name>
   </channel>
-  <channel id="canadavolleyballvsargentinavo03:00utcarenasport2premiumrspolsatsportsportklub1hrsportklub1si">
-    <display-name>Canada Volleyball vs Argentina Vo03:00 UTCArena Sport 2 Premium RSPolsat SportSport Klub 1 HRSport Klub 1 SI</display-name>
+  <channel id="shkëndijavseuropafc18:00utcarenasport1sk">
+    <display-name>Shkëndija vs Europa FC18:00 UTCArena Sport 1 SK</display-name>
   </channel>
-  <channel id="tsghawksvsfubonguardians10:35utccpbltv">
-    <display-name>TSG Hawks vs Fubon Guardians10:35 UTCCPBL TV</display-name>
+  <channel id="vålerengavsaalesund17:00utctv2play">
+    <display-name>Vålerenga vs Aalesund17:00 UTCTV 2 Play</display-name>
   </channel>
-  <channel id="francevolleyballvsbrazilvolle21:00utcarenasport2premiumrspolsatsportmaxsport1bgssport2trssport+trsportklub1hrsportklub1sidaznitaly">
-    <display-name>France Volleyball vs Brazil Volle21:00 UTCArena Sport 2 Premium RSPolsat SportMAX Sport 1 BGS Sport 2 TRS Sport+ TRSport Klub 1 HRSport Klub 1 SIDAZN Italy</display-name>
+  <channel id="ħamrunspartansvsnsírunavík17:30utconefootball">
+    <display-name>Ħamrun Spartans vs NSÍ Runavík17:30 UTCOneFootball</display-name>
   </channel>
-  <channel id="germanyvolleyballvssloveniavo11:00utcarenasport3premiumrspolsatsport3ssport2trssport+trsportklub1sisportklub3hrsportklub3rs">
-    <display-name>Germany Volleyball vs Slovenia Vo11:00 UTCArena Sport 3 Premium RSPolsat Sport 3S Sport 2 TRS Sport+ TRSport Klub 1 SISport Klub 3 HRSport Klub 3 RS</display-name>
+  <channel id="crbvsnáutico23:00utcespnbrasil">
+    <display-name>CRB vs Náutico23:00 UTCESPN Brasil</display-name>
+  </channel>
+  <channel id="otagonuggetsvshawkesbayhawks07:00utcskysport3nz">
+    <display-name>Otago Nuggets vs Hawkes Bay Hawks07:00 UTCSky Sport 3 NZ</display-name>
+  </channel>
+  <channel id="racingclubvsdefensayjusticia21:45utcfubotvtycsportsarg">
+    <display-name>Racing Club vs Defensa y Justicia21:45 UTCFuboTVTyC Sports ARG</display-name>
+  </channel>
+  <channel id="bradfordbullsvswakefieldtrini19:00utcskysports+sportsnetworldfoxsoccerpluskayosports">
+    <display-name>Bradford Bulls vs Wakefield Trini19:00 UTCSky Sports+SportsNet WorldFox Soccer PlusKayo Sports</display-name>
   </channel>
 
 </tv>
