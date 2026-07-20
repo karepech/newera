@@ -1,70 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="ukrainevolleyballvsgermanyvol14:30utcsupersport3hd(albania)arenasport2premiumrspolsatsportsportklub3hrsportklub3rssportklub2si">
-    <display-name>Ukraine Volleyball vs Germany Vol14:30 UTCSuper Sport 3 HD (Albania)Arena Sport 2 Premium RSPolsat SportSport Klub 3 HRSport Klub 3 RSSport Klub 2 SI</display-name>
+  <channel id="torontobluejaysvstampabayra23:07utcsportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasportsespn+mlb.tv">
+    <display-name>Toronto Blue Jays vs Tampa Bay Ra23:07 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsESPN +MLB.tv</display-name>
   </channel>
-  <channel id="kansascityroyalsvssandiegop18:10utcmlb.tv">
-    <display-name>Kansas City Royals vs San Diego P18:10 UTCMLB.tv</display-name>
+  <channel id="keflavíkvsíaakranes19:15utconefootball">
+    <display-name>Keflavík vs ÍA Akranes19:15 UTCOneFootball</display-name>
   </channel>
-  <channel id="phoenixrisingvsmontereybayfc02:30utcparamount+us">
-    <display-name>Phoenix Rising vs Monterey Bay FC02:30 UTCParamount+ US</display-name>
+  <channel id="atlantabravesvssandiegopadre23:15utcmlb.tv">
+    <display-name>Atlanta Braves vs San Diego Padre23:15 UTCMLB.tv</display-name>
   </channel>
-  <channel id="englandcricketvsindiacricket10:00utcsupersportcricketskysportscricketskysport2nzfoxcricketkayosports">
-    <display-name>England Cricket vs India Cricket10:00 UTCSuperSport CricketSky Sports CricketSky Sport 2 NZFOX CricketKayo Sports</display-name>
-  </channel>
-  <channel id="ottawaredblacksvswinnipegblue23:00utccbssportsnetworkusards2tsn1tsn5tsn3">
-    <display-name>Ottawa Redblacks vs Winnipeg Blue23:00 UTCCBS Sports Network USARDS 2TSN 1TSN 5TSN 3</display-name>
-  </channel>
-  <channel id="essendonfootballclubvsgreater06:40utcespnsouthafrica7matenswskysportselectnzfoxfootyfoxsports2ustntsports1tntsports3">
-    <display-name>Essendon Football Club vs Greater06:40 UTCESPN South Africa7mate NSWSky Sport Select NZFox FootyFox Sports 2 USTNT Sports 1TNT Sports 3</display-name>
-  </channel>
-  <channel id="serbiavolleyballvssloveniavol18:00utcssport2trarenasport2premiumrspolsatsportsportklub3hrsportklub3rssportklub2sissport+tr">
-    <display-name>Serbia Volleyball vs Slovenia Vol18:00 UTCS Sport 2 TRArena Sport 2 Premium RSPolsat SportSport Klub 3 HRSport Klub 3 RSSport Klub 2 SIS Sport+ TR</display-name>
-  </channel>
-  <channel id="richmondfootballclubvshawthor03:10utcskysport9nzfoxfootyfoxsports2ustntsports2">
-    <display-name>Richmond Football Club vs Hawthor03:10 UTCSky Sport 9 NZFox FootyFox Sports 2 USTNT Sports 2</display-name>
-  </channel>
-  <channel id="athleticsvswashingtonnationals20:05utcmlb.tvnbcsportscaliforniapeacockpremium">
-    <display-name>Athletics vs Washington Nationals20:05 UTCMLB.tvNBC Sports CaliforniaPeacock Premium</display-name>
-  </channel>
-  <channel id="chinavolleyballvsbrazilvolley17:00utcsupersport3hd(albania)polsatsport2sportklub1hrsportklub3sidaznitaly">
-    <display-name>China Volleyball vs Brazil Volley17:00 UTCSuper Sport 3 HD (Albania)Polsat Sport 2Sport Klub 1 HRSport Klub 3 SIDAZN Italy</display-name>
-  </channel>
-  <channel id="cdguadalajaravstoluca01:07utctelemundouniversopeacockpremium">
-    <display-name>CD Guadalajara vs Toluca01:07 UTCTelemundoUniversoPeacock Premium</display-name>
-  </channel>
-  <channel id="bostonredsoxvstampabayrays17:35utcmlb.tvnesn">
-    <display-name>Boston Red Sox vs Tampa Bay Rays17:35 UTCMLB.tvNESN</display-name>
-  </channel>
-  <channel id="íbvvestmannaeyjarvskaakureyri14:00utconefootball">
-    <display-name>ÍBV Vestmannaeyjar vs KA Akureyri14:00 UTCOneFootball</display-name>
-  </channel>
-  <channel id="franklinbullsvstaranakiairs06:00utcskysport3nz">
-    <display-name>Franklin Bulls vs Taranaki Airs06:00 UTCSky Sport 3 NZ</display-name>
-  </channel>
-  <channel id="botevvratsavschernomore16:30utcdiemasportbgsportklub4si">
-    <display-name>Botev Vratsa vs Cherno More16:30 UTCDiema Sport BGSport Klub 4 SI</display-name>
-  </channel>
-  <channel id="loschankasvssportboys16:00utcfanatizint">
-    <display-name>Los Chankas vs Sport Boys16:00 UTCFanatiz INT</display-name>
-  </channel>
-  <channel id="čukaričkivsimtnovibeograd17:00utcarenasport2si">
-    <display-name>Čukarički vs IMT Novi Beograd17:00 UTCArena Sport 2 SI</display-name>
-  </channel>
-  <channel id="spainvsargentina19:00utcarenasport1premiumrsarenasport1bihazteca7mxbbciplayerctvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegdr1ert2grfoxusitvxjojšportla1m4sporthum6npo1nrk1noorfeinsrdsrsila2rte2rtp1rtsdeuxchrtv:športsport1ilsporttv1sporttv5srfzweisupersport2hd(albania)supersportgrandstandsupersportpsltelemundotsn1tsn3tsn4tsn5tudnmexicotv4setvp1tvpsportuniversoutvniyletv2zdfitvazamsports2azamsports4bbconefubotvrai1rtssportrúvsportbox.rustvtelevenvidio.comarenasport1siarenasport2sicmoresport1ficanaisglobosbtbrtigosportsboliviadaznitalypeacockpremium">
-    <display-name>Spain vs Argentina19:00 UTCArena Sport 1 Premium RSArena Sport 1 BiHAzteca 7 MXBBC iPlayerCTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegDR 1ERT 2 GRFOX USITVXJOJ ŠportLa 1M4 Sport HUM6NPO 1NRK 1 NOORF EinsRDSRSI La 2RTE2RTP 1RTS Deux CHRTV:ŠportSport 1 ILSport TV 1Sport TV 5SRF ZweiSuper Sport 2 HD (Albania)SuperSport GrandstandSuperSport PSLTelemundoTSN 1TSN 3TSN 4TSN 5TUDN MexicoTV 4 SETVP 1TVP SportUniversoUTV NIYle TV2ZDFITVAzam Sports 2Azam Sports 4BBC OneFuboTVRai 1RTS SportRÚVSportbox.ruSTVTelevenVidio.comArena Sport 1 SIArena Sport 2 SIC More Sport 1 FICanais GloboSBT BRTigo Sports BoliviaDAZN ItalyPeacock Premium</display-name>
-  </channel>
-  <channel id="bolandcavaliersvsbluebulls12:05utcsupersportrugbyskysport7nzstansportau">
-    <display-name>Boland Cavaliers vs Blue Bulls12:05 UTCSuperSport RugbySky Sport 7 NZStan Sport AU</display-name>
-  </channel>
-  <channel id="sanantoniovslasvegaslights01:00utcfubotv">
-    <display-name>San Antonio vs Las Vegas Lights01:00 UTCFuboTV</display-name>
-  </channel>
-  <channel id="arizonadiamondbacksvsst.louis20:10utcmlbnetworkmlb.tv">
-    <display-name>Arizona Diamondbacks vs St. Louis20:10 UTCMLB NetworkMLB.tv</display-name>
-  </channel>
-  <channel id="seattlemarinersvssanfrancisco00:08utcespn3netherlandssportsneteastsportsnetontariosportsnetpacificsportsnetwestmlb.tv">
-    <display-name>Seattle Mariners vs San Francisco00:08 UTCESPN 3 NetherlandsSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestMLB.tv</display-name>
+  <channel id="nagoyabashoday907:00utcnhkworldabematv">
+    <display-name>Nagoya Basho Day 907:00 UTCNHK WorldAbema TV</display-name>
   </channel>
 
 </tv>
