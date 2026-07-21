@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="torontobluejaysvstampabayra23:07utcsportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasportsespn+mlb.tv">
-    <display-name>Toronto Blue Jays vs Tampa Bay Ra23:07 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsESPN +MLB.tv</display-name>
+  <channel id="westindiescricketvsnewzealan18:30utcespn2newzealandskysport2nzespnnewzealandsupersportcricketsupersportgrandstandtntsports1espnaustraliakayosports">
+    <display-name>West Indies Cricket vs New Zealan18:30 UTCESPN 2 New ZealandSky Sport 2 NZESPN New ZealandSuperSport CricketSuperSport GrandstandTNT Sports 1ESPN AustraliaKayo Sports</display-name>
   </channel>
-  <channel id="keflavíkvsíaakranes19:15utconefootball">
-    <display-name>Keflavík vs ÍA Akranes19:15 UTCOneFootball</display-name>
+  <channel id="chicagocubsvsdetroittigers00:05utcmarqueesportsnetworkmlb.tv">
+    <display-name>Chicago Cubs vs Detroit Tigers00:05 UTCMarquee Sports NetworkMLB.tv</display-name>
   </channel>
-  <channel id="atlantabravesvssandiegopadre23:15utcmlb.tv">
-    <display-name>Atlanta Braves vs San Diego Padre23:15 UTCMLB.tv</display-name>
+  <channel id="milondonvssunrisersleeds17:30utcskysportscricket">
+    <display-name>MI London vs Sunrisers Leeds17:30 UTCSky Sports Cricket</display-name>
   </channel>
-  <channel id="nagoyabashoday907:00utcnhkworldabematv">
-    <display-name>Nagoya Basho Day 907:00 UTCNHK WorldAbema TV</display-name>
+  <channel id="atlantabravesvssandiegopadre23:15utcespnsouthafricaespn2netherlandsespn2australiakayosportsmlb.tv">
+    <display-name>Atlanta Braves vs San Diego Padre23:15 UTCESPN South AfricaESPN 2 NetherlandsESPN 2 AustraliaKayo SportsMLB.tv</display-name>
+  </channel>
+  <channel id="newyorkyankeesvspittsburghpi23:05utcmlb.tvsportsnetone">
+    <display-name>New York Yankees vs Pittsburgh Pi23:05 UTCMLB.tvSportsNet One</display-name>
+  </channel>
+  <channel id="novorizontinovscriciúma22:30utcfoxsports1br">
+    <display-name>Novorizontino vs Criciúma22:30 UTCFox Sports 1 BR</display-name>
+  </channel>
+  <channel id="losangelesangelsvsst.louisc02:10utcespndeportesespnaustraliaespnnewzealandkayosportsmlb.tvviaplaydkviaplayisviaplaynoviaplayse">
+    <display-name>Los Angeles Angels vs St. Louis C02:10 UTCESPN DeportesESPN AustraliaESPN New ZealandKayo SportsMLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
+  </channel>
+  <channel id="ctbcbrothersvstsghawks10:35utccpbltv">
+    <display-name>CTBC Brothers vs TSG Hawks10:35 UTCCPBL TV</display-name>
+  </channel>
+  <channel id="seattlemarinersvscincinnatire01:40utctntsports1tntsports2mlb.tv">
+    <display-name>Seattle Mariners vs Cincinnati Re01:40 UTCTNT Sports 1TNT Sports 2MLB.tv</display-name>
+  </channel>
+  <channel id="agfaarhusvslechpoznań17:00utctv3+tvpsportviaplaydk">
+    <display-name>AGF Aarhus vs Lech Poznań17:00 UTCTV 3+TVP SportViaplay DK</display-name>
   </channel>
 
 </tv>
