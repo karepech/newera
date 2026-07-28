@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="gormahiavsvipers13:00utcazamsports1azamsports2">
-    <display-name>Gor Mahia vs Vipers13:00 UTCAzam Sports 1Azam Sports 2</display-name>
+  <channel id="sanfranciscogiantsvsmilwaukee01:45utcmlb.tv">
+    <display-name>San Francisco Giants vs Milwaukee01:45 UTCMLB.tv</display-name>
   </channel>
-  <channel id="cskasofiavsbotevplovdiv18:15utcdiemasportbgsportklub3si">
-    <display-name>CSKA Sofia vs Botev Plovdiv18:15 UTCDiema Sport BGSport Klub 3 SI</display-name>
+  <channel id="australianetballvsmalawinetba18:00utc7nsw7victoriaskysport7nzsupersportlaliga">
+    <display-name>Australia Netball vs Malawi Netba18:00 UTC7 NSW7 VictoriaSky Sport 7 NZSuperSport La Liga</display-name>
   </channel>
-  <channel id="breiðablikvsíbvvestmannaeyjar18:00utconefootball">
-    <display-name>Breiðablik vs ÍBV Vestmannaeyjar18:00 UTCOneFootball</display-name>
+  <channel id="miamimarlinsvsphiladelphiaphi22:40utcmlb.tv">
+    <display-name>Miami Marlins vs Philadelphia Phi22:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="pittsburghpiratesvsarizonadia22:40utcmlb.tv">
-    <display-name>Pittsburgh Pirates vs Arizona Dia22:40 UTCMLB.tv</display-name>
+  <channel id="southafricanetballvsnorthern13:00utcskysport5nzsupersportvariety4hbomaxuk">
+    <display-name>South Africa Netball vs Northern13:00 UTCSky Sport 5 NZSuperSport Variety 4HBO Max UK</display-name>
   </channel>
-  <channel id="randersfcvssilkeborgif17:00utcsportklub1si">
-    <display-name>Randers FC vs Silkeborg IF17:00 UTCSport Klub 1 SI</display-name>
+  <channel id="tampabayraysvstexasrangers22:40utcviaplaydkviaplayismlb.tvviaplaynoviaplayse">
+    <display-name>Tampa Bay Rays vs Texas Rangers22:40 UTCViaplay DKViaplay ISMLB.tvViaplay NOViaplay SE</display-name>
   </channel>
-  <channel id="washingtonnationalsvstorontob22:45utcsportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasportsmlb.tv">
-    <display-name>Washington Nationals vs Toronto B22:45 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsMLB.tv</display-name>
+  <channel id="heartofmidlothianvssturmgraz18:45utcpremiersports1ieviaplaysports1ukorfeinsarenasport1skespn+arenasport1premiumrscanal11portugalfubotv">
+    <display-name>Heart of Midlothian vs Sturm Graz18:45 UTCPremier Sports 1 IEViaplay Sports 1 UKORF EinsArena Sport 1 SKESPN +Arena Sport 1 Premium RSCanal 11 PortugalFuboTV</display-name>
   </channel>
-  <channel id="chicagowhitesoxvsnewyorkyan23:40utcsportsnetoneyestsn2mlb.tv">
-    <display-name>Chicago White Sox vs New York Yan23:40 UTCSportsNet OneYESTSN 2MLB.tv</display-name>
+  <channel id="minnesotatwinsvskansascityro23:40utcespn2newzealandmlb.tv">
+    <display-name>Minnesota Twins vs Kansas City Ro23:40 UTCESPN 2 New ZealandMLB.tv</display-name>
+  </channel>
+  <channel id="sunrisersleedsvsmanchestersup17:30utcskysportscricketsupersportvariety2foxcricketskysport1nzskysportsmaineventkayosportsstarsports2ind">
+    <display-name>Sunrisers Leeds vs Manchester Sup17:30 UTCSky Sports CricketSuperSport Variety 2FOX CricketSky Sport 1 NZSky Sports Main EventKayo SportsStar Sports 2 IND</display-name>
   </channel>
 
 </tv>
