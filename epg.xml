@@ -1,28 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="sanfranciscogiantsvsmilwaukee01:45utcmlb.tv">
-    <display-name>San Francisco Giants vs Milwaukee01:45 UTCMLB.tv</display-name>
+  <channel id="mirassolvsremo22:30utcpremierefc1">
+    <display-name>Mirassol vs Remo22:30 UTCPremiere FC 1</display-name>
   </channel>
-  <channel id="australianetballvsmalawinetba18:00utc7nsw7victoriaskysport7nzsupersportlaliga">
-    <display-name>Australia Netball vs Malawi Netba18:00 UTC7 NSW7 VictoriaSky Sport 7 NZSuperSport La Liga</display-name>
+  <channel id="sloveniavolleyballvsturkeyvol07:00utcrtv:športarenasport1premiumrssupersport2hd(albania)trtsportrssport+trsportklub1sissporttrsportklub1hrmaxsport2bg">
+    <display-name>Slovenia Volleyball vs Turkey Vol07:00 UTCRTV:ŠportArena Sport 1 Premium RSSuper Sport 2 HD (Albania)TRT Spor TRS Sport+ TRSport Klub 1 SIS Sport TRSport Klub 1 HRMAX Sport 2 BG</display-name>
   </channel>
-  <channel id="miamimarlinsvsphiladelphiaphi22:40utcmlb.tv">
-    <display-name>Miami Marlins vs Philadelphia Phi22:40 UTCMLB.tv</display-name>
+  <channel id="górnikzabrzevsfenerbahçe18:00utcpolsatsportpolsatsportpremium1ssport+trsporttv1onefootball">
+    <display-name>Górnik Zabrze vs Fenerbahçe18:00 UTCPolsat SportPolsat Sport Premium 1S Sport+ TRSport TV 1OneFootball</display-name>
   </channel>
-  <channel id="southafricanetballvsnorthern13:00utcskysport5nzsupersportvariety4hbomaxuk">
-    <display-name>South Africa Netball vs Northern13:00 UTCSky Sport 5 NZSuperSport Variety 4HBO Max UK</display-name>
+  <channel id="sanfranciscogiantsvsmilwaukee19:45utcmlbnetworkviaplayisviaplaydkviaplaynoviaplaysemlb.tv">
+    <display-name>San Francisco Giants vs Milwaukee19:45 UTCMLB NetworkViaplay ISViaplay DKViaplay NOViaplay SEMLB.tv</display-name>
   </channel>
-  <channel id="tampabayraysvstexasrangers22:40utcviaplaydkviaplayismlb.tvviaplaynoviaplayse">
-    <display-name>Tampa Bay Rays vs Texas Rangers22:40 UTCViaplay DKViaplay ISMLB.tvViaplay NOViaplay SE</display-name>
+  <channel id="losangelessparksvsnewyorkli02:00utcspectrumsportsspectrumsportsnet">
+    <display-name>Los Angeles Sparks vs New York Li02:00 UTCSpectrum SportsSpectrum SportsNet</display-name>
   </channel>
-  <channel id="heartofmidlothianvssturmgraz18:45utcpremiersports1ieviaplaysports1ukorfeinsarenasport1skespn+arenasport1premiumrscanal11portugalfubotv">
-    <display-name>Heart of Midlothian vs Sturm Graz18:45 UTCPremier Sports 1 IEViaplay Sports 1 UKORF EinsArena Sport 1 SKESPN +Arena Sport 1 Premium RSCanal 11 PortugalFuboTV</display-name>
+  <channel id="newzealandnetballvswalesnetb18:00utcsupersportlaligahbomaxuk">
+    <display-name>New Zealand Netball vs Wales Netb18:00 UTCSuperSport La LigaHBO Max UK</display-name>
   </channel>
-  <channel id="minnesotatwinsvskansascityro23:40utcespn2newzealandmlb.tv">
-    <display-name>Minnesota Twins vs Kansas City Ro23:40 UTCESPN 2 New ZealandMLB.tv</display-name>
+  <channel id="uni-presidentlionsvstsghawks10:35utccpbltv">
+    <display-name>Uni-President Lions vs TSG Hawks10:35 UTCCPBL TV</display-name>
   </channel>
-  <channel id="sunrisersleedsvsmanchestersup17:30utcskysportscricketsupersportvariety2foxcricketskysport1nzskysportsmaineventkayosportsstarsports2ind">
-    <display-name>Sunrisers Leeds vs Manchester Sup17:30 UTCSky Sports CricketSuperSport Variety 2FOX CricketSky Sport 1 NZSky Sports Main EventKayo SportsStar Sports 2 IND</display-name>
+  <channel id="rayonsportsvstusker16:00utcazamsports1azamsports2">
+    <display-name>Rayon Sports vs Tusker16:00 UTCAzam Sports 1Azam Sports 2</display-name>
+  </channel>
+  <channel id="santosvsuniversidadcentral00:30utcespn1netherlandssporttv1sportdigitalfussballbeinsportsusabeinsportscanadasport3iltodksabeinsports1qatarbeinsports3australiaespnbrasilmaxsport4bgarenasport1hrbeinsportsenglish1qatarfubotvstar+northamerica">
+    <display-name>Santos vs Universidad Central00:30 UTCESPN 1 NetherlandsSport TV 1Sportdigital FussballBeIn Sports USABeIn Sports CanadaSport 3 ILTOD KSABeIN Sports 1 QatarBeIn Sports 3 AustraliaESPN BrasilMAX Sport 4 BGArena Sport 1 HRBeIN Sports English 1 QatarFuboTVStar+ North America</display-name>
+  </channel>
+  <channel id="lechpoznańvsagfaarhus17:00utctvpsport">
+    <display-name>Lech Poznań vs AGF Aarhus17:00 UTCTVP Sport</display-name>
+  </channel>
+  <channel id="japanvolleyballvschinavolleyb11:30utcrtv:športarenasport1premiumrssupersport2hd(albania)ssport+trsportklub1siviaplaynlssporttrsportklub1hrviaplaydkviaplaynomaxsport2bg">
+    <display-name>Japan Volleyball vs China Volleyb11:30 UTCRTV:ŠportArena Sport 1 Premium RSSuper Sport 2 HD (Albania)S Sport+ TRSport Klub 1 SIViaplay NLS Sport TRSport Klub 1 HRViaplay DKViaplay NOMAX Sport 2 BG</display-name>
+  </channel>
+  <channel id="welshfirevstrentrockets14:00utcskysportscricketfoxcricketskysportsmaineventskysport1nzkayosportsstarsports2indsupersportgrandstand">
+    <display-name>Welsh Fire vs Trent Rockets14:00 UTCSky Sports CricketFOX CricketSky Sports Main EventSky Sport 1 NZKayo SportsStar Sports 2 INDSuperSport Grandstand</display-name>
+  </channel>
+  <channel id="vascodagamavsindependienteme22:00utcespn1netherlandsbeinsportscanadabeinsportsusamovistar#vamossporttv2beinsports3australiaespnbrasilmaxsport4bgtodksaarenasport1hrbeinsports1qatarbeinsportsenglish1qatarokkosportrufubotv">
+    <display-name>Vasco da Gama vs Independiente Me22:00 UTCESPN 1 NetherlandsBeIn Sports CanadaBeIn Sports USAMovistar #VamosSport TV 2BeIn Sports 3 AustraliaESPN BrasilMAX Sport 4 BGTOD KSAArena Sport 1 HRBeIN Sports 1 QatarBeIN Sports English 1 QatarOkko Sport RUFuboTV</display-name>
+  </channel>
+  <channel id="st.louiscardinalsvschicagocu23:45utcpeacockpremiumbeinsportsmax4viaplaydkviaplayisviaplaynoviaplayseespn3hondurasmarqueesportsnetworkmlb.tvtntsports1">
+    <display-name>St. Louis Cardinals vs Chicago Cu23:45 UTCPeacock PremiumBeIn Sports Max 4Viaplay DKViaplay ISViaplay NOViaplay SEESPN 3 HondurasMarquee Sports NetworkMLB.tvTNT Sports 1</display-name>
+  </channel>
+  <channel id="newyorkmetsvsatlantabraves17:10utcespn1netherlandsespn4netherlandstntsports4espn3netherlandsmlbnetworkmlb.tv">
+    <display-name>New York Mets vs Atlanta Braves17:10 UTCESPN 1 NetherlandsESPN 4 NetherlandsTNT Sports 4ESPN 3 NetherlandsMLB NetworkMLB.tv</display-name>
+  </channel>
+  <channel id="sandiegopadresvscoloradorock01:40utcespn3netherlandsmlb.tv">
+    <display-name>San Diego Padres vs Colorado Rock01:40 UTCESPN 3 NetherlandsMLB.tv</display-name>
+  </channel>
+  <channel id="louisvillecityvsbirminghamleg23:30utcparamount+usstar+northamerica">
+    <display-name>Louisville City vs Birmingham Leg23:30 UTCParamount+ USStar+ North America</display-name>
   </channel>
 
 </tv>
