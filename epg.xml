@@ -1,22 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="welshfirewomenvssouthernbrav14:00utcskysportscricketskysportsmaineventskysport1nzfoxcricketkayosportsstarsports2ind">
-    <display-name>Welsh Fire Women vs Southern Brav14:00 UTCSky Sports CricketSky Sports Main EventSky Sport 1 NZFOX CricketKayo SportsStar Sports 2 IND</display-name>
+  <channel id="newyorkyankeesvsst.louiscar23:05utcespnnewzealandfoxsports1brkayosportsespnaustraliamlb.tvyes">
+    <display-name>New York Yankees vs St. Louis Car23:05 UTCESPN New ZealandFox Sports 1 BRKayo SportsESPN AustraliaMLB.tvYES</display-name>
   </channel>
-  <channel id="philadelphiaphilliesvswashingt22:40utcbeinsportsmax5rds2viaplayismlb.tvviaplaydkviaplaynoviaplayse">
-    <display-name>Philadelphia Phillies vs Washingt22:40 UTCBeIn Sports Max 5RDS 2Viaplay ISMLB.tvViaplay DKViaplay NOViaplay SE</display-name>
+  <channel id="coloradorockiesvstampabayray00:40utcmlb.tv">
+    <display-name>Colorado Rockies vs Tampa Bay Ray00:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="sarmientovsindependienterivada19:45utcespnpremiumargentina">
-    <display-name>Sarmiento vs Independiente Rivada19:45 UTCESPN Premium Argentina</display-name>
+  <channel id="gormahiavsal-hilalomdurman13:00utcazamsports1azamsports2">
+    <display-name>Gor Mahia vs Al-Hilal Omdurman13:00 UTCAzam Sports 1Azam Sports 2</display-name>
   </channel>
-  <channel id="newyorkyankeesvsst.louiscar23:05utcyesmlb.tv">
-    <display-name>New York Yankees vs St. Louis Car23:05 UTCYESMLB.tv</display-name>
+  <channel id="philadelphiaphilliesvswashingt22:40utcmlb.tv">
+    <display-name>Philadelphia Phillies vs Washingt22:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="cracoviavspogońszczecin17:00utcdailymotionekstraklasatvarenasport2siarenasport2hr">
-    <display-name>Cracovia vs Pogoń Szczecin17:00 UTCDailymotionEkstraklasa TVArena Sport 2 SIArena Sport 2 HR</display-name>
+  <channel id="houstonastrosvstorontoblueja00:10utcsportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasportsmlb.tv">
+    <display-name>Houston Astros vs Toronto Blue Ja00:10 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsMLB.tv</display-name>
   </channel>
-  <channel id="celticvsdundee18:30utcceltictvparamount+uscosmotesport1grskysportsfootballdigisport3romaniaskysportsmaineventsportdigitalfussballbeinsports3australiasporttv1polsatsport2arenasport2premiumrsespnsouthafricasupersport2hd(albania)ssport+tr">
-    <display-name>Celtic vs Dundee18:30 UTCCeltic TVParamount+ USCosmote Sport 1 GRSky Sports FootballDigi Sport 3 RomaniaSky Sports Main EventSportdigital FussballBeIn Sports 3 AustraliaSport TV 1Polsat Sport 2Arena Sport 2 Premium RSESPN South AfricaSuper Sport 2 HD (Albania)S Sport+ TR</display-name>
+  <channel id="spartapraguevslyon18:00utccanal+francearenasport1x2rsmultisports1fr">
+    <display-name>Sparta Prague vs Lyon18:00 UTCCanal+ FranceArena Sport 1x2 RSMultiSports 1 FR</display-name>
+  </channel>
+  <channel id="shamrockroversvsegnatia19:00utcsupersport2hd(albania)">
+    <display-name>Shamrock Rovers vs Egnatia19:00 UTCSuper Sport 2 HD (Albania)</display-name>
+  </channel>
+  <channel id="columbuscrewvsatlas23:45utcmlsseasonpass">
+    <display-name>Columbus Crew vs Atlas23:45 UTCMLS Season Pass</display-name>
+  </channel>
+  <channel id="audakekavavsdinamocity16:00utcsupersport2hd(albania)">
+    <display-name>Auda Kekava vs Dinamo City16:00 UTCSuper Sport 2 HD (Albania)</display-name>
+  </channel>
+  <channel id="milwaukeebrewersvspittsburghp23:40utcmlb.tv">
+    <display-name>Milwaukee Brewers vs Pittsburgh P23:40 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="pérezzeledónvscartaginés02:00utcfutvcr">
+    <display-name>Pérez Zeledón vs Cartaginés02:00 UTCFUTV CR</display-name>
   </channel>
 
 </tv>
