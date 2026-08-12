@@ -1,46 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="slovanbratislavavsmjällby18:15utcrtv:šport">
-    <display-name>Slovan Bratislava vs Mjällby18:15 UTCRTV:Šport</display-name>
-  </channel>
-  <channel id="columbuscrewvspumasunam23:30utcmlsseasonpass">
-    <display-name>Columbus Crew vs Pumas UNAM23:30 UTCMLS Season Pass</display-name>
-  </channel>
-  <channel id="bodø/glimtvsunionsaint-gillois16:00utcsporttv1arenasport3premiumrsarenasport1sk">
-    <display-name>Bodø/Glimt vs Union Saint-Gillois16:00 UTCSport TV 1Arena Sport 3 Premium RSArena Sport 1 SK</display-name>
-  </channel>
-  <channel id="st.louiscardinalsvsphiladelph23:45utcmlb.tv">
-    <display-name>St. Louis Cardinals vs Philadelph23:45 UTCMLB.tv</display-name>
-  </channel>
-  <channel id="manchestersupergiantsvssunris17:30utcsupersportcricketskysportscricketskysport2nzskysportsmaineventstarsports2indsupersportgrandstandkayosportswillowus">
-    <display-name>Manchester Super Giants vs Sunris17:30 UTCSuperSport CricketSky Sports CricketSky Sport 2 NZSky Sports Main EventStar Sports 2 INDSuperSport GrandstandKayo SportsWillow US</display-name>
-  </channel>
-  <channel id="uniónvscentralcórdobadesanti00:15utcespnpremiumargentina">
-    <display-name>Unión vs Central Córdoba de Santi00:15 UTCESPN Premium Argentina</display-name>
+  <channel id="fccopenhagenvsdebrecen16:00utcsporttv1espn+fubotv">
+    <display-name>FC Copenhagen vs Debrecen16:00 UTCSport TV 1ESPN +FuboTV</display-name>
   </channel>
   <channel id="tsghawksvsweichuandragons10:35utccpbltv">
     <display-name>TSG Hawks vs Wei Chuan Dragons10:35 UTCCPBL TV</display-name>
   </channel>
-  <channel id="pakhtakorvsal-husseinirbid15:00utcparamount+aus">
-    <display-name>Pakhtakor vs Al-Hussein Irbid15:00 UTCParamount+ AUS</display-name>
+  <channel id="washingtonnationalsvschicagoc22:45utcmarqueesportsnetworkmlb.tv">
+    <display-name>Washington Nationals vs Chicago C22:45 UTCMarquee Sports NetworkMLB.tv</display-name>
   </channel>
-  <channel id="fluminensevsindependienterivad22:00utcbeinsportsusaespn1netherlandssport3ilarenasport1premiumrssporttv1beinsports1qatarbeinsports3australiabeinsportsenglish2qatarert2grespnbrasilmaxsport4bgtodksa">
-    <display-name>Fluminense vs Independiente Rivad22:00 UTCBeIn Sports USAESPN 1 NetherlandsSport 3 ILArena Sport 1 Premium RSSport TV 1BeIN Sports 1 QatarBeIn Sports 3 AustraliaBeIN Sports English 2 QatarERT 2 GRESPN BrasilMAX Sport 4 BGTOD KSA</display-name>
+  <channel id="atléticotucumánvsindependiente22:15utctycsportsarg">
+    <display-name>Atlético Tucumán vs Independiente22:15 UTCTyC Sports ARG</display-name>
   </channel>
-  <channel id="detroittigersvsclevelandguard22:40utcmlb.tv">
-    <display-name>Detroit Tigers vs Cleveland Guard22:40 UTCMLB.tv</display-name>
+  <channel id="deportivodeacoruñavsrealmad19:00utcrealmadridtvteledeporte">
+    <display-name>Deportivo de A Coruña vs Real Mad19:00 UTCReal Madrid TVTeledeporte</display-name>
   </channel>
-  <channel id="adelaideunitedvscônganhànội09:30utcparamount+aus">
-    <display-name>Adelaide United vs Công An Hà Nội09:30 UTCParamount+ AUS</display-name>
+  <channel id="danawhitescontenderseriesseas00:00utcparamount+us">
+    <display-name>Dana Whites Contender Series seas00:00 UTCParamount+ US</display-name>
   </channel>
-  <channel id="athleticsvstampabayrays01:40utcnbcsportscaliforniamlb.tv">
-    <display-name>Athletics vs Tampa Bay Rays01:40 UTCNBC Sports CaliforniaMLB.tv</display-name>
+  <channel id="athleticsvstampabayrays01:40utcmlb.tvnbcsportscalifornia">
+    <display-name>Athletics vs Tampa Bay Rays01:40 UTCMLB.tvNBC Sports California</display-name>
   </channel>
-  <channel id="torontobluejaysvsbostonreds23:07utcespn2netherlandsmlb.tvnesnsportsneteastsportsnetontariosportsnetpacificsportsnetwest">
-    <display-name>Toronto Blue Jays vs Boston Red S23:07 UTCESPN 2 NetherlandsMLB.tvNESNSportsNet EastSportsNet OntarioSportsNet PacificSportsNet West</display-name>
+  <channel id="sanfranciscogiantsvshoustona19:45utcmlb.tv">
+    <display-name>San Francisco Giants vs Houston A19:45 UTCMLB.tv</display-name>
   </channel>
-  <channel id="seattlestormvschicagosky02:00utcskysportsmixskysportsactionskysportnbausanetwork">
-    <display-name>Seattle Storm vs Chicago Sky02:00 UTCSky Sports MixSky Sports ActionSky Sport NBAUSA Network</display-name>
+  <channel id="platensevscoquimbounido22:00utcbeinsportsenglish1qatarfoxsportsargentinafubotvokkosportrustar+northamericatodksa">
+    <display-name>Platense vs Coquimbo Unido22:00 UTCBeIN Sports English 1 QatarFOX Sports ArgentinaFuboTVOkko Sport RUStar+ North AmericaTOD KSA</display-name>
+  </channel>
+  <channel id="atlantabravesvsnewyorkmets23:15utcmlb.tv">
+    <display-name>Atlanta Braves vs New York Mets23:15 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="bolívarvssãopaulo00:30utcsport4ilbeinsports2qatarbeinsportsenglish2qatarmaxsport4bgsportdigitalfussballtodksa">
+    <display-name>Bolívar vs São Paulo00:30 UTCSport 4 ILBeIN Sports 2 QatarBeIN Sports English 2 QatarMAX Sport 4 BGSportdigital FussballTOD KSA</display-name>
+  </channel>
+  <channel id="irelandcricketvsafghanistancr09:45utcwillowxtraus">
+    <display-name>Ireland Cricket vs Afghanistan Cr09:45 UTCWillow XTRA US</display-name>
+  </channel>
+  <channel id="st.louiscardinalsvsphiladelph18:15utctntsports2foxsports3argentinamlb.tv">
+    <display-name>St. Louis Cardinals vs Philadelph18:15 UTCTNT Sports 2FOX Sports 3 ArgentinaMLB.tv</display-name>
+  </channel>
+  <channel id="losangelessparksvsphoenixmer02:00utcspectrumsportsspectrumsportsnetnbatv">
+    <display-name>Los Angeles Sparks vs Phoenix Mer02:00 UTCSpectrum SportsSpectrum SportsNetNBA TV</display-name>
+  </channel>
+  <channel id="amazuluvsorlandopirates17:30utcsupersportpsl">
+    <display-name>Amazulu vs Orlando Pirates17:30 UTCSuperSport PSL</display-name>
   </channel>
 
 </tv>
