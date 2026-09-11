@@ -1,52 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="philadelphiaphilliesvshouston17:05utcmlbnetwork">
-    <display-name>Philadelphia Phillies vs Houston17:05 UTCMLB Network</display-name>
+  <channel id="guyanaamazonwarriorsvstrinbag23:00utcskysport2nzfoxcrickettntsports2starsports2ind">
+    <display-name>Guyana Amazon Warriors vs Trinbag23:00 UTCSky Sport 2 NZFOX CricketTNT Sports 2Star Sports 2 IND</display-name>
   </channel>
-  <channel id="losangelesfcvsnewyorkredbu02:30utcmlsseasonpass">
-    <display-name>Los Angeles FC vs New York Red Bu02:30 UTCMLS Season Pass</display-name>
+  <channel id="primorjevsbilje15:30utcsportklub1si">
+    <display-name>Primorje vs Bilje15:30 UTCSport Klub 1 SI</display-name>
   </channel>
-  <channel id="storhamarvsklagenfurt17:00utcmysports5vsport1noviaplaydkviaplaynoviaplayse">
-    <display-name>Storhamar vs Klagenfurt17:00 UTCMySports 5V Sport 1 NOViaplay DKViaplay NOViaplay SE</display-name>
+  <channel id="sanmarinopractice13:00utctntsports2">
+    <display-name>San Marino Practice13:00 UTCTNT Sports 2</display-name>
   </channel>
-  <channel id="kookoovsnitra15:30utcmysports3viaplay1urheiluviaplaynoviaplayseviaplaydk">
-    <display-name>KooKoo vs Nitra15:30 UTCMySports 3Viaplay 1 UrheiluViaplay NOViaplay SEViaplay DK</display-name>
+  <channel id="beşiktaşvserzurumspor17:00utcsportklub4si">
+    <display-name>Beşiktaş vs Erzurumspor17:00 UTCSport Klub 4 SI</display-name>
   </channel>
-  <channel id="rkpartizanvsfüchseberlin16:45utcarenasport1siarenasport3premiumrsarenasport4hrarenasport1bihsport1ltsport2iltv2playviaplaydkviaplayno">
-    <display-name>RK Partizan vs Füchse Berlin16:45 UTCArena Sport 1 SIArena Sport 3 Premium RSArena Sport 4 HRArena Sport 1 BiHSport 1 LTSport 2 ILTV 2 PlayViaplay DKViaplay NO</display-name>
+  <channel id="chernomorevslokomotivsofia18:00utcsportklub6sisportklub8rs">
+    <display-name>Cherno More vs Lokomotiv Sofia18:00 UTCSport Klub 6 SISport Klub 8 RS</display-name>
   </channel>
-  <channel id="chinau20womenvsnigeriau20wo16:00utcbeinsports5qatarfoxsoccerplusdaznaustriadazncroatiadaznczechiadazngermanydazngreecedaznserbiadaznsloveniadaznturkey">
-    <display-name>China U20 Women vs Nigeria U20 Wo16:00 UTCBeIN Sports 5 QatarFox Soccer PlusDAZN AustriaDAZN CroatiaDAZN CzechiaDAZN GermanyDAZN GreeceDAZN SerbiaDAZN SloveniaDAZN Turkey</display-name>
+  <channel id="westhamunitedvswrexham19:00utcskysportsfootballbeinsportsenglish1qatarvsport2novsportfootballnovasport6czskysportsmaineventarenasport3premiumrsarenasport4hrarenasport1bihbeinsports3qatarbeinsportsmax9beinsports2australiacosmotesport3grsport2ildiemasport2bgespnbrasilsetantasportsuaviaplaynldazncanadabeinsportsconnectnzespnsouthafricatodksa">
+    <display-name>West Ham United vs Wrexham19:00 UTCSky Sports FootballBeIN Sports English 1 QatarV Sport 2 NOV Sport FootballNova Sport 6 CZSky Sports Main EventArena Sport 3 Premium RSArena Sport 4 HRArena Sport 1 BiHBeIN Sports 3 QatarBeIn Sports Max 9BeIn Sports 2 AustraliaCosmote Sport 3 GRSport 2 ILDiema Sport 2 BGESPN BrasilSetanta Sports UAViaplay NLDAZN CanadaBeIN Sports Connect NZESPN South AfricaTOD KSA</display-name>
   </channel>
-  <channel id="manawatuvstaranaki07:10utctvnz+">
-    <display-name>Manawatu vs Taranaki07:10 UTCTVNZ+</display-name>
+  <channel id="southsydneyrabbitohsvsnewcast09:50utcfoxleaguefoxsoccerpluskayosportsbeinsportshd1franceskysport2nzskysportsmix">
+    <display-name>South Sydney Rabbitohs vs Newcast09:50 UTCFOX LeagueFox Soccer PlusKayo SportsBeIn Sports HD 1 FranceSky Sport 2 NZSky Sports Mix</display-name>
   </channel>
-  <channel id="psveindhovenvsshakhtardonetsk16:45utcsonylivhbomaxbriqiyicnskysportmaxtntsports3beinsports2qatarbluesport6chcanal+sportfrancedigisport3romaniadaznspainnovasport5czskysportaustria4ziggosport14daznnewzealandplaysports4primasport2cmoresport1fimtvurheilu1cmoresport2fimtvurheilu2wowowjpskygoitarenasport3hrdaznaustriadazncanadadazngermanydaznportugalmovistarligadecampeones3multisports3frokkosportruparamount+usstansportauviaplayisartsport1tv2playviaplaydkviaplayse">
-    <display-name>PSV Eindhoven vs Shakhtar Donetsk16:45 UTCSony LIVHBO Max BRIQiyi CNSky Sport MaxTNT Sports 3BeIN Sports 2 QatarBlue Sport 6 CHCanal+ Sport FranceDigi Sport 3 RomaniaDAZN SpainNova Sport 5 CZSky Sport Austria 4Ziggo Sport 14DAZN New ZealandPlay Sports 4Prima Sport 2C More Sport 1 FIMTV Urheilu 1C More Sport 2 FIMTV Urheilu 2Wowow JPSky Go ITArena Sport 3 HRDAZN AustriaDAZN CanadaDAZN GermanyDAZN PortugalMovistar Liga de Campeones 3MultiSports 3 FROkko Sport RUParamount+ USStan Sport AUViaplay ISArt Sport 1TV 2 PlayViaplay DKViaplay SE</display-name>
+  <channel id="kidderminsterharriersvshartlep18:45utcdaznnationalleaguedaznaustraliadaznbrasildaznpolanddaznusdaznbelgiumdazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznportugaldaznserbiadaznsloveniadaznturkey">
+    <display-name>Kidderminster Harriers vs Hartlep18:45 UTCDAZN National LeagueDAZN AustraliaDAZN BrasilDAZN PolandDAZN USDAZN BelgiumDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN Turkey</display-name>
   </channel>
-  <channel id="chinabasketballwomenvsfrance12:30utcarenasport1hrarenasport1x2rsbeinsportshd1franceespnaustraliaespnnewzealandm4sporthutvslovenija2tvpsport">
-    <display-name>China Basketball Women vs France12:30 UTCArena Sport 1 HRArena Sport 1x2 RSBeIn Sports HD 1 FranceESPN AustraliaESPN New ZealandM4 Sport HUTV Slovenija 2TVP Sport</display-name>
+  <channel id="casaranovsbarletta19:00utcskygoit">
+    <display-name>Casarano vs Barletta19:00 UTCSky Go IT</display-name>
   </channel>
-  <channel id="houstondynamovsrealsaltlake00:30utcmlsseasonpass">
-    <display-name>Houston Dynamo vs Real Salt Lake00:30 UTCMLS Season Pass</display-name>
+  <channel id="puszczaniepołomicevsłksłódź18:45utctvpsport">
+    <display-name>Puszcza Niepołomice vs ŁKS Łódź18:45 UTCTVP Sport</display-name>
   </channel>
-  <channel id="biarritzolympiquevscolomiers19:00utccanal+sportfrance">
-    <display-name>Biarritz Olympique vs Colomiers19:00 UTCCanal+ Sport France</display-name>
+  <channel id="fcgrenoblevssuagenlot-et-gar19:00utccanal+sportfrance">
+    <display-name>FC Grenoble vs SU Agen Lot-et-Gar19:00 UTCCanal+ Sport France</display-name>
   </channel>
-  <channel id="slaviapraguevslens19:00utcsonylivhbomaxbriqiyicnbeinsports4qatarbluesport2chcosmotesport7grnovasport3czarenasport7hrcmoresport1fimtvurheilu1primasport4hbomaxukarenasport5hrdazncanadadaznnewzealanddaznportugalmaxsport4bgmovistarligadecampeones4multisports1frparamount+ussportklub3sistansportauviaplayisskygoitdaznaustriadazngermanyokkosportruplaysports5tv2playviaplayse">
-    <display-name>Slavia Prague vs Lens19:00 UTCSony LIVHBO Max BRIQiyi CNBeIN Sports 4 QatarBlue Sport 2 CHCosmote Sport 7 GRNova Sport 3 CZArena Sport 7 HRC More Sport 1 FIMTV Urheilu 1Prima Sport 4HBO Max UKArena Sport 5 HRDAZN CanadaDAZN New ZealandDAZN PortugalMAX Sport 4 BGMovistar Liga de Campeones 4MultiSports 1 FRParamount+ USSport Klub 3 SIStan Sport AUViaplay ISSky Go ITDAZN AustriaDAZN GermanyOkko Sport RUPlay Sports 5TV 2 PlayViaplay SE</display-name>
+  <channel id="stadenyonnaisvsneuchâtelxamax17:30utcbluesport2ch">
+    <display-name>Stade Nyonnais vs Neuchâtel Xamax17:30 UTCBlue Sport 2 CH</display-name>
   </channel>
-  <channel id="sandiegofcvssanjoseearthqua02:30utcmlsseasonpass">
-    <display-name>San Diego FC vs San Jose Earthqua02:30 UTCMLS Season Pass</display-name>
+  <channel id="fcemmenvsdegraafschap18:00utcespnextranetherlands">
+    <display-name>FC Emmen vs De Graafschap18:00 UTCESPN Extra Netherlands</display-name>
   </channel>
-  <channel id="chicagofirevsintermiami00:30utcmlsseasonpass">
-    <display-name>Chicago Fire vs Inter Miami00:30 UTCMLS Season Pass</display-name>
+  <channel id="warringtonwolvesvstoulouseoly19:00utcskysports+">
+    <display-name>Warrington Wolves vs Toulouse Oly19:00 UTCSky Sports+</display-name>
   </channel>
-  <channel id="seattlemarinersvstexasrangers20:10utcespn3netherlandsespn2australiasportsneteastsportsnetontariosportsnetpacificsportsnetwestpeacockpremiumespn2newzealand">
-    <display-name>Seattle Mariners vs Texas Rangers20:10 UTCESPN 3 NetherlandsESPN 2 AustraliaSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestPeacock PremiumESPN 2 New Zealand</display-name>
+  <channel id="bostonredsoxvskansascityroy23:10utctsn3tsn5nesn">
+    <display-name>Boston Red Sox vs Kansas City Roy23:10 UTCTSN 3TSN 5NESN</display-name>
   </channel>
-  <channel id="mtmelsungenvsvardar196118:45utcarenasport1siarenasport4hrarenasport1bihsport1lttv2playviaplaydkviaplayno">
-    <display-name>MT Melsungen vs Vardar 196118:45 UTCArena Sport 1 SIArena Sport 4 HRArena Sport 1 BiHSport 1 LTTV 2 PlayViaplay DKViaplay NO</display-name>
+  <channel id="onefridayfights170yodlekpetv13:30utcchannel7thailandbeinsportsusabeinsportscanadaespn2australia">
+    <display-name>ONE Friday Fights 170 Yodlekpet v13:30 UTCChannel 7 ThailandBeIn Sports USABeIn Sports CanadaESPN 2 Australia</display-name>
+  </channel>
+  <channel id="empolivsarezzo17:00utconefootball">
+    <display-name>Empoli vs Arezzo17:00 UTCOneFootball</display-name>
+  </channel>
+  <channel id="brinje-grosupljevsnafta18:15utcsportklub7rs">
+    <display-name>Brinje-Grosuplje vs Nafta18:15 UTCSport Klub 7 RS</display-name>
+  </channel>
+  <channel id="csíkszeredamiercureaciucvsdin18:00utcprimasport1">
+    <display-name>Csíkszereda Miercurea Ciuc vs Din18:00 UTCPrima Sport 1</display-name>
+  </channel>
+  <channel id="darmstadtvsarminiabielefeld16:30utcnovasports3skysporttopeventvsport2nonovasport6czmagentatvdebeinsports3australiasport1ilštv3siviaplaynlarenasport2rsdaznportugalnovasportbgonefootballsportklub3hrsportklub3rsviaplayis">
+    <display-name>Darmstadt vs Arminia Bielefeld16:30 UTCNovasports 3Sky Sport Top EventV Sport 2 NONova Sport 6 CZMagentaTV DEBeIn Sports 3 AustraliaSport 1 ILŠTV 3 SIViaplay NLArena Sport 2 RSDAZN PortugalNova Sport BGOneFootballSport Klub 3 HRSport Klub 3 RSViaplay IS</display-name>
+  </channel>
+  <channel id="tsghawksvsfubonguardians10:35utccpbltv">
+    <display-name>TSG Hawks vs Fubon Guardians10:35 UTCCPBL TV</display-name>
+  </channel>
+  <channel id="unionberlinvsschalke0418:30utcbbciplayeronesoccercaplaysports1elevensports3polandnovasport3cznovasportsprimeskysporttopeventuniversovsport1noviaplay2urheilubeinsportshd2francessport+dazn1portugalsport1ilštv1siviaplaynldiemasport3bgmovistar#vamosmovistarligadecampeonessportvvsportpremiumdazncanadadaznportugalsportklub3hrsportklub3rsmovistarligadecampeones2okkosportru">
+    <display-name>Union Berlin vs Schalke 0418:30 UTCBBC iPlayerOneSoccer CAPlay Sports 1Eleven Sports 3 PolandNova Sport 3 CZNovasports PrimeSky Sport Top EventUniversoV Sport 1 NOViaplay 2 UrheiluBeIn Sports HD 2 FranceS Sport+DAZN 1 PortugalSport 1 ILŠTV 1 SIViaplay NLDiema Sport 3 BGMovistar #VamosMovistar Liga de CampeonesSporTVV Sport PremiumDAZN CanadaDAZN PortugalSport Klub 3 HRSport Klub 3 RSMovistar Liga de Campeones 2Okko Sport RU</display-name>
+  </channel>
+  <channel id="béziersvsnevers17:30utcmultisports1frmultisports3fr">
+    <display-name>Béziers vs Nevers17:30 UTCMultiSports 1 FRMultiSports 3 FR</display-name>
+  </channel>
+  <channel id="beninu20womenvspolandu20wom16:00utcbeinsports5qatardaznaustriadazncroatiadaznczechiadazngermanydazngreecedaznserbiadaznsloveniadaznturkeytvpsport">
+    <display-name>Benin U20 Women vs Poland U20 Wom16:00 UTCBeIN Sports 5 QatarDAZN AustriaDAZN CroatiaDAZN CzechiaDAZN GermanyDAZN GreeceDAZN SerbiaDAZN SloveniaDAZN TurkeyTVP Sport</display-name>
+  </channel>
+  <channel id="losangelesramsvssanfrancisco00:35utcnflsundayticketnetflixarenasport1si7nsw7queensland7southaustralia7victoria7westernaustraliactvcalgaryctvedmontonctvhalifaxctvkitchenerctvmontrealctvottawactvtorontoctvvancouverctvwinnipegespnaustraliards2tsn1tsn47matewesternaustraliaespnnewzealanddaznaustraliadaznbrasildaznpolanddaznbelgiumdazncroatiadaznczechiadazngreecedaznitalydaznserbiadaznsloveniadaznspaindaznturkeydazncanadadaznnewzealanddaznportugal">
+    <display-name>Los Angeles Rams vs San Francisco00:35 UTCNFL Sunday TicketNetflixArena Sport 1 SI7 NSW7 Queensland7 South Australia7 Victoria7 Western AustraliaCTV CalgaryCTV EdmontonCTV HalifaxCTV KitchenerCTV MontrealCTV OttawaCTV TorontoCTV VancouverCTV WinnipegESPN AustraliaRDS 2TSN 1TSN 47mate Western AustraliaESPN New ZealandDAZN AustraliaDAZN BrasilDAZN PolandDAZN BelgiumDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN CanadaDAZN New ZealandDAZN Portugal</display-name>
   </channel>
 
 </tv>
