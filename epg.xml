@@ -1,22 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="detroittigersvswashingtonnati22:40utcbeinsportsmax4mlb.tvpeacockpremiumviaplaydkviaplayisviaplaynoviaplayse">
-    <display-name>Detroit Tigers vs Washington Nati22:40 UTCBeIn Sports Max 4MLB.tvPeacock PremiumViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
+  <channel id="atlantabravesvscincinnatireds23:15utcmlb.tv">
+    <display-name>Atlanta Braves vs Cincinnati Reds23:15 UTCMLB.tv</display-name>
   </channel>
-  <channel id="newjerseydevilsvsnewyorkran23:00utcdazncroatiadaznczechiadaznpolanddaznportugaldaznsloveniaespn+">
-    <display-name>New Jersey Devils vs New York Ran23:00 UTCDAZN CroatiaDAZN CzechiaDAZN PolandDAZN PortugalDAZN SloveniaESPN +</display-name>
+  <channel id="peterboroughunitedvscolchester18:00utcskysports+">
+    <display-name>Peterborough United vs Colchester18:00 UTCSky Sports+</display-name>
   </channel>
-  <channel id="chunichidragonsvshiroshimatoy05:00utcjsports2">
-    <display-name>Chunichi Dragons vs Hiroshima Toy05:00 UTCJ Sports 2</display-name>
+  <channel id="frölundahcvsfärjestadbk17:00utccmoreaction">
+    <display-name>Frölunda HC vs Färjestad BK17:00 UTCC More Action</display-name>
   </channel>
-  <channel id="vélezsarsfieldvstigre00:30utctntsportsargentina">
-    <display-name>Vélez Sarsfield vs Tigre00:30 UTCTNT Sports Argentina</display-name>
+  <channel id="arsenalwfcvskøgewomen19:00utcespn2australiacbssportsnetworkusactsportfubotvonesoccercatodksavidio.com">
+    <display-name>Arsenal WFC vs Køge Women19:00 UTCESPN 2 AustraliaCBS Sports Network USACT SportFuboTVOneSoccer CATOD KSAVidio.com</display-name>
   </channel>
-  <channel id="guidoniamonteceliovslivorno18:30utcskysportcalcio">
-    <display-name>Guidonia Montecelio vs Livorno18:30 UTCSky Sport Calcio</display-name>
+  <channel id="spartapraguevsmladáboleslav16:30utco2tvfotbal">
+    <display-name>Sparta Prague vs Mladá Boleslav16:30 UTCO2 TV Fotbal</display-name>
   </channel>
-  <channel id="aikifvskalmarhc17:00utccmoreaction">
-    <display-name>AIK IF vs Kalmar HC17:00 UTCC More Action</display-name>
+  <channel id="walsallvsstevenage18:00utcskysports+">
+    <display-name>Walsall vs Stevenage18:00 UTCSky Sports+</display-name>
+  </channel>
+  <channel id="phoenixmercuryvsdallaswings02:00utcskysportnbaskysportsmixskysports+tsn2usanetwork">
+    <display-name>Phoenix Mercury vs Dallas Wings02:00 UTCSky Sport NBASky Sports MixSky Sports+TSN 2USA Network</display-name>
+  </channel>
+  <channel id="englandcricketvssrilankacric11:30utcskysportscricketsupersportcricketskysportsmaineventskysport1nzfoxcricketsonyten1">
+    <display-name>England Cricket vs Sri Lanka Cric11:30 UTCSky Sports CricketSuperSport CricketSky Sports Main EventSky Sport 1 NZFOX CricketSony Ten 1</display-name>
+  </channel>
+  <channel id="pittsburghpiratesvsst.louisc22:40utcmlb.tv">
+    <display-name>Pittsburgh Pirates vs St. Louis C22:40 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="newyorkrangersvsnewyorkisla23:00utcdazncroatiadaznczechiadaznpolanddaznportugaldaznsloveniaespn+">
+    <display-name>New York Rangers vs New York Isla23:00 UTCDAZN CroatiaDAZN CzechiaDAZN PolandDAZN PortugalDAZN SloveniaESPN +</display-name>
+  </channel>
+  <channel id="burtonalbionvsnottinghamfores18:00utcskysports+">
+    <display-name>Burton Albion vs Nottingham Fores18:00 UTCSky Sports+</display-name>
+  </channel>
+  <channel id="röglebkvsdjurgårdensif17:00utccmorelive5">
+    <display-name>Rögle BK vs Djurgårdens IF17:00 UTCC More Live 5</display-name>
+  </channel>
+  <channel id="bostonredsoxvsclevelandguard22:45utcnesntsn2mlb.tvviaplaydkviaplayisviaplaynoviaplayse">
+    <display-name>Boston Red Sox vs Cleveland Guard22:45 UTCNESNTSN 2MLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
+  </channel>
+  <channel id="ehcbiel-biennevsambri-piotta17:45utcmysports3">
+    <display-name>EHC Biel-Bienne vs Ambri-Piotta17:45 UTCMySports 3</display-name>
+  </channel>
+  <channel id="luganovszug17:45utcmysports7sport1czechia">
+    <display-name>Lugano vs Zug17:45 UTCMySports 7Sport 1 Czechia</display-name>
+  </channel>
+  <channel id="kansascityroyalsvschicagowhi23:40utcmlb.tv">
+    <display-name>Kansas City Royals vs Chicago Whi23:40 UTCMLB.tv</display-name>
+  </channel>
+  <channel id="lanúsvsestudiantesdelaplata00:15utcespnpremiumargentina">
+    <display-name>Lanús vs Estudiantes de La Plata00:15 UTCESPN Premium Argentina</display-name>
   </channel>
 
 </tv>
