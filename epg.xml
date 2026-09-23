@@ -1,55 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="atlantabravesvscincinnatireds23:15utcmlb.tv">
-    <display-name>Atlanta Braves vs Cincinnati Reds23:15 UTCMLB.tv</display-name>
+  <channel id="akibashoday1107:00utcnhkworldabematv">
+    <display-name>Aki Basho Day 1107:00 UTCNHK WorldAbema TV</display-name>
   </channel>
-  <channel id="peterboroughunitedvscolchester18:00utcskysports+">
-    <display-name>Peterborough United vs Colchester18:00 UTCSky Sports+</display-name>
+  <channel id="chelseawomenvsaustriawienwom19:00utccbssportsnetworkusaonesoccercatodksavidio.comparamount+usstar+northamerica">
+    <display-name>Chelsea Women vs Austria Wien Wom19:00 UTCCBS Sports Network USAOneSoccer CATOD KSAVidio.comParamount+ USStar+ North America</display-name>
   </channel>
-  <channel id="frölundahcvsfärjestadbk17:00utccmoreaction">
-    <display-name>Frölunda HC vs Färjestad BK17:00 UTCC More Action</display-name>
+  <channel id="ottawasenatorsvstorontomaple23:00utcviaplayisdazncroatiadaznczechiadaznpolanddaznportugaldaznsloveniaviaplaynoviaplayse">
+    <display-name>Ottawa Senators vs Toronto Maple23:00 UTCViaplay ISDAZN CroatiaDAZN CzechiaDAZN PolandDAZN PortugalDAZN SloveniaViaplay NOViaplay SE</display-name>
   </channel>
-  <channel id="arsenalwfcvskøgewomen19:00utcespn2australiacbssportsnetworkusactsportfubotvonesoccercatodksavidio.com">
-    <display-name>Arsenal WFC vs Køge Women19:00 UTCESPN 2 AustraliaCBS Sports Network USACT SportFuboTVOneSoccer CATOD KSAVidio.com</display-name>
+  <channel id="athleticsvslosangelesangels01:40utcnbcsportscaliforniamlb.tv">
+    <display-name>Athletics vs Los Angeles Angels01:40 UTCNBC Sports CaliforniaMLB.tv</display-name>
   </channel>
-  <channel id="spartapraguevsmladáboleslav16:30utco2tvfotbal">
-    <display-name>Sparta Prague vs Mladá Boleslav16:30 UTCO2 TV Fotbal</display-name>
+  <channel id="texasrangersvsnewyorkmets00:05utcmlb.tv">
+    <display-name>Texas Rangers vs New York Mets00:05 UTCMLB.tv</display-name>
   </channel>
-  <channel id="walsallvsstevenage18:00utcskysports+">
-    <display-name>Walsall vs Stevenage18:00 UTCSky Sports+</display-name>
+  <channel id="northkoreau20womenvscolombia16:30utcbeinsportsenglish2qatarespndeportesfoxsports2usraisport1rds2sportbox.ruteledeportetsn3tudnmexicouniverso">
+    <display-name>North Korea U20 Women vs Colombia16:30 UTCBeIN Sports English 2 QatarESPN DeportesFox Sports 2 USRai Sport 1RDS 2Sportbox.ruTeledeporteTSN 3TUDN MexicoUniverso</display-name>
   </channel>
-  <channel id="phoenixmercuryvsdallaswings02:00utcskysportnbaskysportsmixskysports+tsn2usanetwork">
-    <display-name>Phoenix Mercury vs Dallas Wings02:00 UTCSky Sport NBASky Sports MixSky Sports+TSN 2USA Network</display-name>
-  </channel>
-  <channel id="englandcricketvssrilankacric11:30utcskysportscricketsupersportcricketskysportsmaineventskysport1nzfoxcricketsonyten1">
-    <display-name>England Cricket vs Sri Lanka Cric11:30 UTCSky Sports CricketSuperSport CricketSky Sports Main EventSky Sport 1 NZFOX CricketSony Ten 1</display-name>
-  </channel>
-  <channel id="pittsburghpiratesvsst.louisc22:40utcmlb.tv">
-    <display-name>Pittsburgh Pirates vs St. Louis C22:40 UTCMLB.tv</display-name>
-  </channel>
-  <channel id="newyorkrangersvsnewyorkisla23:00utcdazncroatiadaznczechiadaznpolanddaznportugaldaznsloveniaespn+">
-    <display-name>New York Rangers vs New York Isla23:00 UTCDAZN CroatiaDAZN CzechiaDAZN PolandDAZN PortugalDAZN SloveniaESPN +</display-name>
-  </channel>
-  <channel id="burtonalbionvsnottinghamfores18:00utcskysports+">
-    <display-name>Burton Albion vs Nottingham Fores18:00 UTCSky Sports+</display-name>
-  </channel>
-  <channel id="röglebkvsdjurgårdensif17:00utccmorelive5">
-    <display-name>Rögle BK vs Djurgårdens IF17:00 UTCC More Live 5</display-name>
-  </channel>
-  <channel id="bostonredsoxvsclevelandguard22:45utcnesntsn2mlb.tvviaplaydkviaplayisviaplaynoviaplayse">
-    <display-name>Boston Red Sox vs Cleveland Guard22:45 UTCNESNTSN 2MLB.tvViaplay DKViaplay ISViaplay NOViaplay SE</display-name>
-  </channel>
-  <channel id="ehcbiel-biennevsambri-piotta17:45utcmysports3">
-    <display-name>EHC Biel-Bienne vs Ambri-Piotta17:45 UTCMySports 3</display-name>
-  </channel>
-  <channel id="luganovszug17:45utcmysports7sport1czechia">
-    <display-name>Lugano vs Zug17:45 UTCMySports 7Sport 1 Czechia</display-name>
+  <channel id="modohockeyvsmoraik17:00utccmorelive5cmoresport1fi">
+    <display-name>Modo Hockey vs Mora IK17:00 UTCC More Live 5C More Sport 1 FI</display-name>
   </channel>
   <channel id="kansascityroyalsvschicagowhi23:40utcmlb.tv">
     <display-name>Kansas City Royals vs Chicago Whi23:40 UTCMLB.tv</display-name>
   </channel>
-  <channel id="lanúsvsestudiantesdelaplata00:15utcespnpremiumargentina">
-    <display-name>Lanús vs Estudiantes de La Plata00:15 UTCESPN Premium Argentina</display-name>
+  <channel id="danawhitescontenderseriesseas00:00utcparamount+usparamount+mxsportsnetontarioufcfightpass">
+    <display-name>Dana Whites Contender Series seas00:00 UTCParamount+ USParamount+ MXSportsNet OntarioUFC Fight Pass</display-name>
+  </channel>
+  <channel id="beijingroyalfightersvsnbagl11:30utcmagentasport4grnovasport2cz">
+    <display-name>Beijing Royal Fighters vs NBA G L11:30 UTCMagenta Sport 4 GRNova Sport 2 CZ</display-name>
+  </channel>
+  <channel id="lasvegasacesvslosangelesspa02:00utcespn1netherlandsespnustsn1tsn5espnaustraliaespndeportesespnnewzealandespnparaguay">
+    <display-name>Las Vegas Aces vs Los Angeles Spa02:00 UTCESPN 1 NetherlandsESPN USTSN 1TSN 5ESPN AustraliaESPN DeportesESPN New ZealandESPN Paraguay</display-name>
+  </channel>
+  <channel id="baltimoreoriolesvstorontoblue22:35utcmasnsportsneteastsportsnetontariosportsnetpacificsportsnetwesttvasportsmlb.tv">
+    <display-name>Baltimore Orioles vs Toronto Blue22:35 UTCMASNSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsMLB.tv</display-name>
+  </channel>
+  <channel id="bostonredsoxvsclevelandguard23:10utcespnaustraliaespndeportestsn1tsn3espn2hondurasmlb.tvespnus">
+    <display-name>Boston Red Sox vs Cleveland Guard23:10 UTCESPN AustraliaESPN DeportesTSN 1TSN 3ESPN 2 HondurasMLB.tvESPN US</display-name>
+  </channel>
+  <channel id="saipavsässät15:30utccmoresport1fi">
+    <display-name>SaiPa vs Ässät15:30 UTCC More Sport 1 FI</display-name>
+  </channel>
+  <channel id="vikvästeråshkvssödertäljesk17:00utcsportklubfighthrcmoresport1fi">
+    <display-name>VIK Västerås HK vs Södertälje SK17:00 UTCSportKlub Fight HRC More Sport 1 FI</display-name>
   </channel>
 
 </tv>
