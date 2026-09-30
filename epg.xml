@@ -1,61 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="MySportsScraperEPG">
-  <channel id="sanmarinovsalbania18:45utcsupersport2hd(albania)">
-    <display-name>San Marino vs Albania18:45 UTCSuper Sport 2 HD (Albania)</display-name>
+  <channel id="paokbcvsbasquetmanresa16:30utcnovasports4movistar#vamossport1il">
+    <display-name>PAOK BC vs Basquet Manresa16:30 UTCNovasports 4Movistar #VamosSport 1 IL</display-name>
   </channel>
-  <channel id="vflgummersbachvswybrzeżegdańs16:45utcpolsatsport2dyn">
-    <display-name>VfL Gummersbach vs Wybrzeże Gdańs16:45 UTCPolsat Sport 2DYN</display-name>
+  <channel id="atlantabravesvsphiladelphiaph18:00utcespnaustraliatntsports1espn2brazilespnextraargentinaespnguatemalaespnhondurasespnelsalvadorbeinsportshd2francemlb.tvnbc(wcauphiladelphiaonly)espn2netherlandsespnnewzealandpeacockpremiumrds2">
+    <display-name>Atlanta Braves vs Philadelphia Ph18:00 UTCESPN AustraliaTNT Sports 1ESPN 2 BrazilESPN Extra ArgentinaESPN GuatemalaESPN HondurasESPN El SalvadorBeIn Sports HD 2 FranceMLB.tvNBC (WCAU Philadelphia only)ESPN 2 NetherlandsESPN New ZealandPeacock PremiumRDS 2</display-name>
   </channel>
-  <channel id="sloveniavsnorthmacedonia18:45utcsportklub1si">
-    <display-name>Slovenia vs North Macedonia18:45 UTCSport Klub 1 SI</display-name>
+  <channel id="ollyonnesvschelseawomen19:00utctv2sport1ctsportbeinsports2qatarespn2australiaespnbrasilespndeportesonesoccercaparamount+uskayosportsespnparaguay">
+    <display-name>OL Lyonnes vs Chelsea Women19:00 UTCTV 2 Sport 1CT SportBeIN Sports 2 QatarESPN 2 AustraliaESPN BrasilESPN DeportesOneSoccer CAParamount+ USKayo SportsESPN Paraguay</display-name>
   </channel>
-  <channel id="tofaşskvsninerschemnitz17:00utcštv3si">
-    <display-name>Tofaş SK vs Niners Chemnitz17:00 UTCŠTV 3 SI</display-name>
+  <channel id="romawomenvsbarcelonafemení16:45utconesoccercabeinsports2qatarespndeportesparamount+uscbssportsnetworkusa">
+    <display-name>Roma Women vs Barcelona Femení16:45 UTCOneSoccer CABeIN Sports 2 QatarESPN DeportesParamount+ USCBS Sports Network USA</display-name>
   </channel>
-  <channel id="borehamwoodvskidderminsterhar18:00utcdaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznspaindaznturkeydaznus">
-    <display-name>Boreham Wood vs Kidderminster Har18:00 UTCDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN SpainDAZN TurkeyDAZN US</display-name>
+  <channel id="houstonastrosvschicagowhites21:00utcespnaustraliatntsports1tntsports2foxsports2argentinajsports4mlb.tvespn2netherlandsespnnewzealandpeacockpremiumsportsneteastsportsnetonesportsnetontariosportsnetpacificsportsnetwest">
+    <display-name>Houston Astros vs Chicago White S21:00 UTCESPN AustraliaTNT Sports 1TNT Sports 2FOX Sports 2 ArgentinaJ Sports 4MLB.tvESPN 2 NetherlandsESPN New ZealandPeacock PremiumSportsNet EastSportsNet OneSportsNet OntarioSportsNet PacificSportsNet West</display-name>
   </channel>
-  <channel id="halifaxtownvsbostonunited18:45utcdaznnationalleaguedaznaustraliadaznbelgiumdaznbrasildazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznturkeydaznusdazncanadadaznspain">
-    <display-name>Halifax Town vs Boston United18:45 UTCDAZN National LeagueDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN TurkeyDAZN USDAZN CanadaDAZN Spain</display-name>
+  <channel id="newyorkyankeesvsbostonredso00:00utcespnaustraliabeinsportsmax5tntsports1espn2hondurasespnextraargentinafoxsports3argentinafoxsports1brmlb.tvnbc(wcauphiladelphiaonly)espn2netherlandsespnnewzealandpeacockpremiumrdssportsnetoneviaplayiswbaltvwvtm13wwbt">
+    <display-name>New York Yankees vs Boston Red So00:00 UTCESPN AustraliaBeIn Sports Max 5TNT Sports 1ESPN 2 HondurasESPN Extra ArgentinaFOX Sports 3 ArgentinaFox Sports 1 BRMLB.tvNBC (WCAU Philadelphia only)ESPN 2 NetherlandsESPN New ZealandPeacock PremiumRDSSportsNet OneViaplay ISWBAL TVWVTM 13WWBT</display-name>
   </channel>
-  <channel id="australiavsbrazil10:00utcparamount+aus">
-    <display-name>Australia vs Brazil10:00 UTCParamount+ AUS</display-name>
+  <channel id="östersundsikvskalmarhc17:00utccmorelive5">
+    <display-name>Östersunds IK vs Kalmar HC17:00 UTCC More Live 5</display-name>
   </channel>
-  <channel id="houstonastrosvschicagowhites21:00utcespnaustraliabeinsportsmax7tntsports1tntsports2foxsports3argentinafoxsports1brjsports4mlb.tvespn2netherlandsespnnewzealandpeacockpremiumsportsnet360universoviaplaydkviaplayisviaplayse">
-    <display-name>Houston Astros vs Chicago White S21:00 UTCESPN AustraliaBeIn Sports Max 7TNT Sports 1TNT Sports 2FOX Sports 3 ArgentinaFox Sports 1 BRJ Sports 4MLB.tvESPN 2 NetherlandsESPN New ZealandPeacock PremiumSportsNet 360UniversoViaplay DKViaplay ISViaplay SE</display-name>
+  <channel id="tapparavskookoo15:30utcmtvurheilu3cmoresport1fi">
+    <display-name>Tappara vs KooKoo15:30 UTCMTV Urheilu 3C More Sport 1 FI</display-name>
   </channel>
-  <channel id="ambri-piottavsdavos17:45utcmysports7">
-    <display-name>Ambri-Piotta vs Davos17:45 UTCMySports 7</display-name>
+  <channel id="sydneykingsvsbrisbanebullets09:30utcespnaustralia">
+    <display-name>Sydney Kings vs Brisbane Bullets09:30 UTCESPN Australia</display-name>
   </channel>
-  <channel id="gatesheadvsaltrincham18:45utcdaznnationalleaguedaznaustraliadaznbelgiumdaznbrasildazncanadadazncroatiadaznczechiadazngreecedaznitalydaznnewzealanddaznpolanddaznportugaldaznserbiadaznsloveniadaznturkeydaznusdaznspain">
-    <display-name>Gateshead vs Altrincham18:45 UTCDAZN National LeagueDAZN AustraliaDAZN BelgiumDAZN BrasilDAZN CanadaDAZN CroatiaDAZN CzechiaDAZN GreeceDAZN ItalyDAZN New ZealandDAZN PolandDAZN PortugalDAZN SerbiaDAZN SloveniaDAZN TurkeyDAZN USDAZN Spain</display-name>
+  <channel id="edmontonoilersvsvancouvercanu02:00utcsportsneteastsportsnetontariosportsnetpacificsportsnetwestviaplay2urheilupremiersports2ieviaplaysports2ukarenasport1siskysporttopeventdazncroatiadaznczechiadaznpolanddaznportugaldaznsloveniaespn+sportdeutschland.tvvsportpremiumvsportvinter">
+    <display-name>Edmonton Oilers vs Vancouver Canu02:00 UTCSportsNet EastSportsNet OntarioSportsNet PacificSportsNet WestViaplay 2 UrheiluPremier Sports 2 IEViaplay Sports 2 UKArena Sport 1 SISky Sport Top EventDAZN CroatiaDAZN CzechiaDAZN PolandDAZN PortugalDAZN SloveniaESPN +SportDeutschland.TVV Sport PremiumV Sport Vinter</display-name>
   </channel>
-  <channel id="skellefteåaikvsluleåhf17:00utccmoreaction">
-    <display-name>Skellefteå AIK vs Luleå HF17:00 UTCC More Action</display-name>
+  <channel id="almtunaisvssödertäljesk17:00utccmorelive5">
+    <display-name>Almtuna IS vs Södertälje SK17:00 UTCC More Live 5</display-name>
   </channel>
-  <channel id="rknexenašicevssaint-raphaëlv18:45utcarenasport1si">
-    <display-name>RK Nexe Našice vs Saint-Raphaël V18:45 UTCArena Sport 1 SI</display-name>
+  <channel id="httatranprešovvsbergischerhc18:45utcsport1czechiadyn">
+    <display-name>HT Tatran Prešov vs Bergischer HC18:45 UTCSport 1 CzechiaDYN</display-name>
   </channel>
-  <channel id="genève-servettehcvsehckloten17:45utcmysports4mysports6cmoresport2fimtvurheilu2">
-    <display-name>Genève-Servette HC vs EHC Kloten17:45 UTCMySports 4MySports 6C More Sport 2 FIMTV Urheilu 2</display-name>
+  <channel id="philadelphiaflyersvspittsburgh23:30utcviaplay1urheilupremiersports2ieviaplaysports2ukvsport1notntvsportpremium">
+    <display-name>Philadelphia Flyers vs Pittsburgh23:30 UTCViaplay 1 UrheiluPremier Sports 2 IEViaplay Sports 2 UKV Sport 1 NOTNTV Sport Premium</display-name>
   </channel>
-  <channel id="dubaibasketballvsfcbarcelona16:00utceuroleaguetvssporttrruutu+movistar#vamosmagentatvdemaxsport1bgssport+sportklub1hrsportklub2si">
-    <display-name>Dubai Basketball vs FC Barcelona16:00 UTCEuroLeague TVS Sport TRRuutu+Movistar #VamosMagentaTV DEMAX Sport 1 BGS Sport+Sport Klub 1 HRSport Klub 2 SI</display-name>
+  <channel id="glasgowclanvsmanchesterstorm18:30utcpremiersports1ieviaplaysports1uk">
+    <display-name>Glasgow Clan vs Manchester Storm18:30 UTCPremier Sports 1 IEViaplay Sports 1 UK</display-name>
   </channel>
-  <channel id="anguillavsaruba23:00utcfoxsports2usonesoccerca">
-    <display-name>Anguilla vs Aruba23:00 UTCFox Sports 2 USOneSoccer CA</display-name>
+  <channel id="śląskwrocławvskkbudućnost17:00utcštv2sipolsatsport2">
+    <display-name>Śląsk Wrocław vs KK Budućnost17:00 UTCŠTV 2 SIPolsat Sport 2</display-name>
   </channel>
-  <channel id="atlantabravesvsphiladelphiaph18:00utcespnaustraliabeinsportsmax6tntsports1espn3paraguayespnhondurasespnelsalvadormlb.tvnbc(wcauphiladelphiaonly)espn2netherlandsespnnewzealandpeacockpremiumrds2sportsneteastsportsnetonesportsnetontariosportsnetpacificsportsnetwesttvasportsuniversoviaplaydkviaplayisviaplaynoviaplaysewbaltvwvtm13wwbt">
-    <display-name>Atlanta Braves vs Philadelphia Ph18:00 UTCESPN AustraliaBeIn Sports Max 6TNT Sports 1ESPN 3 ParaguayESPN HondurasESPN El SalvadorMLB.tvNBC (WCAU Philadelphia only)ESPN 2 NetherlandsESPN New ZealandPeacock PremiumRDS 2SportsNet EastSportsNet OneSportsNet OntarioSportsNet PacificSportsNet WestTVA SportsUniversoViaplay DKViaplay ISViaplay NOViaplay SEWBAL TVWVTM 13WWBT</display-name>
-  </channel>
-  <channel id="reyerveneziamestrevsskyliners18:30utcštv1simagentatvde">
-    <display-name>Reyer Venezia Mestre vs Skyliners18:30 UTCŠTV 1 SIMagentaTV DE</display-name>
-  </channel>
-  <channel id="jokeritvshpk15:30utccmoresport1fimtvurheilu1">
-    <display-name>Jokerit vs HPK15:30 UTCC More Sport 1 FIMTV Urheilu 1</display-name>
-  </channel>
-  <channel id="yeoviltownvsworthing18:45utcdaznnationalleaguedaznaustraliadaznbelgiumdazncanadadaznspain">
-    <display-name>Yeovil Town vs Worthing18:45 UTCDAZN National LeagueDAZN AustraliaDAZN BelgiumDAZN CanadaDAZN Spain</display-name>
+  <channel id="vegasgoldenknightsvschicagob02:30utcespnustvasportsviaplay3urheiluespn2australiaespn2brazilespn3netherlandsdazncroatiadaznczechiadaznpolanddaznsloveniadaznportugalespn2newzealandkayosports">
+    <display-name>Vegas Golden Knights vs Chicago B02:30 UTCESPN USTVA SportsViaplay 3 UrheiluESPN 2 AustraliaESPN 2 BrazilESPN 3 NetherlandsDAZN CroatiaDAZN CzechiaDAZN PolandDAZN SloveniaDAZN PortugalESPN 2 New ZealandKayo Sports</display-name>
   </channel>
 
 </tv>
